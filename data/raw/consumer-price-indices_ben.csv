@@ -1,0 +1,917 @@
+Iso3,StartDate,EndDate,Area Code,Area Code (M49),Area,Item Code,Item,Element Code,Element,Months Code,Months,Year Code,Year,Unit,Value,Flag,Note
+#country+code,#date+start,#date+end,,,#country+name,#indicator+code,#indicator+name,,,,,,#date+year,#indicator+type,#indicator+value+num,,
+BEN,2000-01-01,2000-01-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2000,2000,,59.576576,X,base year is 2015
+BEN,2001-01-01,2001-01-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2001,2001,,61.668730,X,base year is 2015
+BEN,2002-01-01,2002-01-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2002,2002,,64.358642,X,base year is 2015
+BEN,2003-01-01,2003-01-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2003,2003,,67.646312,X,base year is 2015
+BEN,2004-01-01,2004-01-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2004,2004,,65.952664,X,base year is 2015
+BEN,2005-01-01,2005-01-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2005,2005,,67.845565,X,base year is 2015
+BEN,2006-01-01,2006-01-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2006,2006,,72.528005,X,base year is 2015
+BEN,2007-01-01,2007-01-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2007,2007,,72.428379,X,base year is 2015
+BEN,2008-01-01,2008-01-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2008,2008,,77.055103,X,base year is 2015
+BEN,2009-01-01,2009-01-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2009,2009,,88.015527,X,base year is 2015
+BEN,2010-01-01,2010-01-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2010,2010,,83.282617,X,base year is 2015
+BEN,2011-01-01,2011-01-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2011,2011,,95.654611,X,base year is 2015
+BEN,2012-01-01,2012-01-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2012,2012,,93.495739,X,base year is 2015
+BEN,2013-01-01,2013-01-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2013,2013,,100.367593,X,base year is 2015
+BEN,2014-01-01,2014-01-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2014,2014,,103.210661,X,base year is 2015
+BEN,2015-01-01,2015-01-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2015,2015,,100.844206,X,base year is 2015
+BEN,2016-01-01,2016-01-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2016,2016,,99.889320,X,base year is 2015
+BEN,2017-01-01,2017-01-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2017,2017,,97.190731,X,base year is 2015
+BEN,2018-01-01,2018-01-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2018,2018,,97.132607,X,base year is 2015
+BEN,2019-01-01,2019-01-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2019,2019,,103.910315,X,base year is 2015
+BEN,2020-01-01,2020-01-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2020,2020,,100.383541,X,base year is 2015
+BEN,2021-01-01,2021-01-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2021,2021,,100.841822,X,base year is 2015
+BEN,2022-01-01,2022-01-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2022,2022,,116.430095,X,base year is 2015
+BEN,2023-01-01,2023-01-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2023,2023,,114.278057,X,base year is 2015
+BEN,2024-01-01,2024-01-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2024,2024,,107.977882,X,base year is 2015
+BEN,2025-01-01,2025-01-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2025,2025,,109.758503,X,base year is 2015
+BEN,2000-02-01,2000-02-29,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2000,2000,,59.277696,X,base year is 2015
+BEN,2001-02-01,2001-02-28,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2001,2001,,59.775828,X,base year is 2015
+BEN,2002-02-01,2002-02-28,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2002,2002,,64.657521,X,base year is 2015
+BEN,2003-02-01,2003-02-28,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2003,2003,,67.048554,X,base year is 2015
+BEN,2004-02-01,2004-02-29,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2004,2004,,65.454532,X,base year is 2015
+BEN,2005-02-01,2005-02-28,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2005,2005,,68.343697,X,base year is 2015
+BEN,2006-02-01,2006-02-28,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2006,2006,,68.343697,X,base year is 2015
+BEN,2007-02-01,2007-02-28,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2007,2007,,71.232862,X,base year is 2015
+BEN,2008-02-01,2008-02-29,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2008,2008,,76.639936,X,base year is 2015
+BEN,2009-02-01,2009-02-28,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2009,2009,,83.614751,X,base year is 2015
+BEN,2010-02-01,2010-02-28,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2010,2010,,83.033516,X,base year is 2015
+BEN,2011-02-01,2011-02-28,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2011,2011,,90.921700,X,base year is 2015
+BEN,2012-02-01,2012-02-29,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2012,2012,,93.329672,X,base year is 2015
+BEN,2013-02-01,2013-02-28,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2013,2013,,100.431529,X,base year is 2015
+BEN,2014-02-01,2014-02-28,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2014,2014,,100.138421,X,base year is 2015
+BEN,2015-02-01,2015-02-28,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2015,2015,,98.245256,X,base year is 2015
+BEN,2016-02-01,2016-02-29,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2016,2016,,97.979549,X,base year is 2015
+BEN,2017-02-01,2017-02-28,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2017,2017,,95.538364,X,base year is 2015
+BEN,2018-02-01,2018-02-28,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2018,2018,,96.883507,X,base year is 2015
+BEN,2019-02-01,2019-02-28,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2019,2019,,99.626381,X,base year is 2015
+BEN,2020-02-01,2020-02-29,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2020,2020,,103.183042,X,base year is 2015
+BEN,2021-02-01,2021-02-28,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2021,2021,,100.662967,X,base year is 2015
+BEN,2022-02-01,2022-02-28,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2022,2022,,105.208331,X,base year is 2015
+BEN,2023-02-01,2023-02-28,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2023,2023,,114.566808,X,base year is 2015
+BEN,2024-02-01,2024-02-29,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2024,2024,,111.336323,X,base year is 2015
+BEN,2025-02-01,2025-02-28,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2025,2025,,111.704262,X,base year is 2015
+BEN,2000-03-01,2000-03-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2000,2000,,61.867982,X,base year is 2015
+BEN,2001-03-01,2001-03-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2001,2001,,62.764620,X,base year is 2015
+BEN,2002-03-01,2002-03-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2002,2002,,65.853038,X,base year is 2015
+BEN,2003-03-01,2003-03-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2003,2003,,64.956400,X,base year is 2015
+BEN,2004-03-01,2004-03-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2004,2004,,63.960136,X,base year is 2015
+BEN,2005-03-01,2005-03-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2005,2005,,71.432115,X,base year is 2015
+BEN,2006-03-01,2006-03-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2006,2006,,69.240335,X,base year is 2015
+BEN,2007-03-01,2007-03-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2007,2007,,70.236598,X,base year is 2015
+BEN,2008-03-01,2008-03-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2008,2008,,78.300606,X,base year is 2015
+BEN,2009-03-01,2009-03-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2009,2009,,81.954081,X,base year is 2015
+BEN,2010-03-01,2010-03-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2010,2010,,84.362053,X,base year is 2015
+BEN,2011-03-01,2011-03-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2011,2011,,89.261030,X,base year is 2015
+BEN,2012-03-01,2012-03-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2012,2012,,95.737644,X,base year is 2015
+BEN,2013-03-01,2013-03-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2013,2013,,100.713843,X,base year is 2015
+BEN,2014-03-01,2014-03-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2014,2014,,99.723253,X,base year is 2015
+BEN,2015-03-01,2015-03-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2015,2015,,101.192946,X,base year is 2015
+BEN,2016-03-01,2016-03-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2016,2016,,99.739860,X,base year is 2015
+BEN,2017-03-01,2017-03-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2017,2017,,94.807669,X,base year is 2015
+BEN,2018-03-01,2018-03-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2018,2018,,96.651013,X,base year is 2015
+BEN,2019-03-01,2019-03-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2019,2019,,103.412183,X,base year is 2015
+BEN,2020-03-01,2020-03-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2020,2020,,102.027376,X,base year is 2015
+BEN,2021-03-01,2021-03-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2021,2021,,103.193005,X,base year is 2015
+BEN,2022-03-01,2022-03-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2022,2022,,105.215980,X,base year is 2015
+BEN,2023-03-01,2023-03-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2023,2023,,116.631875,X,base year is 2015
+BEN,2024-03-01,2024-03-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2024,2024,,113.885163,X,base year is 2015
+BEN,2025-03-01,2025-03-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2025,2025,,114.622901,X,base year is 2015
+BEN,2000-04-01,2000-04-30,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2000,2000,,63.063499,X,base year is 2015
+BEN,2001-04-01,2001-04-30,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2001,2001,,63.561631,X,base year is 2015
+BEN,2002-04-01,2002-04-30,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2002,2002,,67.745939,X,base year is 2015
+BEN,2003-04-01,2003-04-30,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2003,2003,,66.052290,X,base year is 2015
+BEN,2004-04-01,2004-04-30,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2004,2004,,64.856774,X,base year is 2015
+BEN,2005-04-01,2005-04-30,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2005,2005,,70.635104,X,base year is 2015
+BEN,2006-04-01,2006-04-30,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2006,2006,,72.129500,X,base year is 2015
+BEN,2007-04-01,2007-04-30,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2007,2007,,69.937719,X,base year is 2015
+BEN,2008-04-01,2008-04-30,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2008,2008,,78.466673,X,base year is 2015
+BEN,2009-04-01,2009-04-30,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2009,2009,,84.611153,X,base year is 2015
+BEN,2010-04-01,2010-04-30,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2010,2010,,87.600360,X,base year is 2015
+BEN,2011-04-01,2011-04-30,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2011,2011,,92.333270,X,base year is 2015
+BEN,2012-04-01,2012-04-30,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2012,2012,,96.401912,X,base year is 2015
+BEN,2013-04-01,2013-04-30,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2013,2013,,102.169420,X,base year is 2015
+BEN,2014-04-01,2014-04-30,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2014,2014,,101.217856,X,base year is 2015
+BEN,2015-04-01,2015-04-30,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2015,2015,,96.758957,X,base year is 2015
+BEN,2016-04-01,2016-04-30,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2016,2016,,104.140636,X,base year is 2015
+BEN,2017-04-01,2017-04-30,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2017,2017,,97.157517,X,base year is 2015
+BEN,2018-04-01,2018-04-30,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2018,2018,,102.297292,X,base year is 2015
+BEN,2019-04-01,2019-04-30,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2019,2019,,99.526754,X,base year is 2015
+BEN,2020-04-01,2020-04-30,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2020,2020,,102.655023,X,base year is 2015
+BEN,2021-04-01,2021-04-30,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2021,2021,,105.623889,X,base year is 2015
+BEN,2022-04-01,2022-04-30,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2022,2022,,104.492791,X,base year is 2015
+BEN,2023-04-01,2023-04-30,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2023,2023,,108.812186,X,base year is 2015
+BEN,2024-04-01,2024-04-30,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2024,2024,,112.424675,X,base year is 2015
+BEN,2025-04-01,2025-04-30,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2025,2025,,116.391773,X,base year is 2015
+BEN,2000-05-01,2000-05-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2000,2000,,64.059763,X,base year is 2015
+BEN,2001-05-01,2001-05-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2001,2001,,65.952664,X,base year is 2015
+BEN,2002-05-01,2002-05-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2002,2002,,68.144444,X,base year is 2015
+BEN,2003-05-01,2003-05-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2003,2003,,66.351169,X,base year is 2015
+BEN,2004-05-01,2004-05-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2004,2004,,65.753411,X,base year is 2015
+BEN,2005-05-01,2005-05-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2005,2005,,71.531741,X,base year is 2015
+BEN,2006-05-01,2006-05-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2006,2006,,74.321280,X,base year is 2015
+BEN,2007-05-01,2007-05-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2007,2007,,69.838093,X,base year is 2015
+BEN,2008-05-01,2008-05-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2008,2008,,81.206779,X,base year is 2015
+BEN,2009-05-01,2009-05-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2009,2009,,89.842265,X,base year is 2015
+BEN,2010-05-01,2010-05-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2010,2010,,88.679795,X,base year is 2015
+BEN,2011-05-01,2011-05-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2011,2011,,94.076974,X,base year is 2015
+BEN,2012-05-01,2012-05-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2012,2012,,100.304488,X,base year is 2015
+BEN,2013-05-01,2013-05-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2013,2013,,103.162501,X,base year is 2015
+BEN,2014-05-01,2014-05-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2014,2014,,105.535599,X,base year is 2015
+BEN,2015-05-01,2015-05-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2015,2015,,96.758957,X,base year is 2015
+BEN,2016-05-01,2016-05-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2016,2016,,107.196269,X,base year is 2015
+BEN,2017-05-01,2017-05-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2017,2017,,100.528678,X,base year is 2015
+BEN,2018-05-01,2018-05-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2018,2018,,102.297292,X,base year is 2015
+BEN,2019-05-01,2019-05-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2019,2019,,106.102095,X,base year is 2015
+BEN,2020-05-01,2020-05-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2020,2020,,104.976317,X,base year is 2015
+BEN,2021-05-01,2021-05-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2021,2021,,110.321105,X,base year is 2015
+BEN,2022-05-01,2022-05-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2022,2022,,108.410717,X,base year is 2015
+BEN,2023-05-01,2023-05-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2023,2023,,111.742389,X,base year is 2015
+BEN,2024-05-01,2024-05-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2024,2024,,112.941310,X,base year is 2015
+BEN,2025-05-01,2025-05-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2025,2025,,116.214885,X,base year is 2015
+BEN,2000-06-01,2000-06-30,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2000,2000,,64.557895,X,base year is 2015
+BEN,2001-06-01,2001-06-30,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2001,2001,,64.557895,X,base year is 2015
+BEN,2002-06-01,2002-06-30,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2002,2002,,70.037346,X,base year is 2015
+BEN,2003-06-01,2003-06-30,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2003,2003,,65.653785,X,base year is 2015
+BEN,2004-06-01,2004-06-30,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2004,2004,,65.454532,X,base year is 2015
+BEN,2005-06-01,2005-06-30,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2005,2005,,72.826884,X,base year is 2015
+BEN,2006-06-01,2006-06-30,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2006,2006,,72.328752,X,base year is 2015
+BEN,2007-06-01,2007-06-30,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2007,2007,,69.638840,X,base year is 2015
+BEN,2008-06-01,2008-06-30,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2008,2008,,82.203181,X,base year is 2015
+BEN,2009-06-01,2009-06-30,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2009,2009,,84.362053,X,base year is 2015
+BEN,2010-06-01,2010-06-30,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2010,2010,,91.502935,X,base year is 2015
+BEN,2011-06-01,2011-06-30,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2011,2011,,94.575175,X,base year is 2015
+BEN,2012-06-01,2012-06-30,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2012,2012,,100.221454,X,base year is 2015
+BEN,2013-06-01,2013-06-30,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2013,2013,,100.763663,X,base year is 2015
+BEN,2014-06-01,2014-06-30,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2014,2014,,102.297292,X,base year is 2015
+BEN,2015-06-01,2015-06-30,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2015,2015,,100.761172,X,base year is 2015
+BEN,2016-06-01,2016-06-30,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2016,2016,,105.535599,X,base year is 2015
+BEN,2017-06-01,2017-06-30,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2017,2017,,103.160841,X,base year is 2015
+BEN,2018-06-01,2018-06-30,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2018,2018,,102.546393,X,base year is 2015
+BEN,2019-06-01,2019-06-30,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2019,2019,,101.718535,X,base year is 2015
+BEN,2020-06-01,2020-06-30,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2020,2020,,104.846803,X,base year is 2015
+BEN,2021-06-01,2021-06-30,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2021,2021,,117.339743,X,base year is 2015
+BEN,2022-06-01,2022-06-30,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2022,2022,,106.813924,X,base year is 2015
+BEN,2023-06-01,2023-06-30,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2023,2023,,109.125545,X,base year is 2015
+BEN,2024-06-01,2024-06-30,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2024,2024,,109.037992,X,base year is 2015
+BEN,2025-06-01,2025-06-30,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2025,2025,,115.418893,X,base year is 2015
+BEN,2000-07-01,2000-07-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2000,2000,,63.262752,X,base year is 2015
+BEN,2001-07-01,2001-07-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2001,2001,,65.155653,X,base year is 2015
+BEN,2002-07-01,2002-07-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2002,2002,,73.424643,X,base year is 2015
+BEN,2003-07-01,2003-07-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2003,2003,,65.554158,X,base year is 2015
+BEN,2004-07-01,2004-07-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2004,2004,,66.052290,X,base year is 2015
+BEN,2005-07-01,2005-07-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2005,2005,,74.122027,X,base year is 2015
+BEN,2006-07-01,2006-07-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2006,2006,,69.937719,X,base year is 2015
+BEN,2007-07-01,2007-07-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2007,2007,,68.343697,X,base year is 2015
+BEN,2008-07-01,2008-07-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2008,2008,,86.022723,X,base year is 2015
+BEN,2009-07-01,2009-07-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2009,2009,,87.351259,X,base year is 2015
+BEN,2010-07-01,2010-07-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2010,2010,,87.766427,X,base year is 2015
+BEN,2011-07-01,2011-07-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2011,2011,,94.907309,X,base year is 2015
+BEN,2012-07-01,2012-07-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2012,2012,,97.315281,X,base year is 2015
+BEN,2013-07-01,2013-07-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2013,2013,,103.810993,X,base year is 2015
+BEN,2014-07-01,2014-07-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2014,2014,,101.549990,X,base year is 2015
+BEN,2015-07-01,2015-07-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2015,2015,,105.900947,X,base year is 2015
+BEN,2016-07-01,2016-07-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2016,2016,,101.716057,X,base year is 2015
+BEN,2017-07-01,2017-07-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2017,2017,,103.160841,X,base year is 2015
+BEN,2018-07-01,2018-07-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2018,2018,,101.466957,X,base year is 2015
+BEN,2019-07-01,2019-07-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2019,2019,,103.113304,X,base year is 2015
+BEN,2020-07-01,2020-07-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2020,2020,,105.225383,X,base year is 2015
+BEN,2021-07-01,2021-07-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2021,2021,,114.539944,X,base year is 2015
+BEN,2022-07-01,2022-07-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2022,2022,,108.471417,X,base year is 2015
+BEN,2023-07-01,2023-07-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2023,2023,,109.919814,X,base year is 2015
+BEN,2024-07-01,2024-07-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2024,2024,,110.392863,X,base year is 2015
+BEN,2025-07-01,2025-07-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2025,2025,,114.622901,X,base year is 2015
+BEN,2000-08-01,2000-08-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2000,2000,,62.764620,X,base year is 2015
+BEN,2001-08-01,2001-08-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2001,2001,,63.561631,X,base year is 2015
+BEN,2002-08-01,2002-08-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2002,2002,,68.443323,X,base year is 2015
+BEN,2003-08-01,2003-08-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2003,2003,,63.362378,X,base year is 2015
+BEN,2004-08-01,2004-08-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2004,2004,,63.661257,X,base year is 2015
+BEN,2005-08-01,2005-08-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2005,2005,,73.125763,X,base year is 2015
+BEN,2006-08-01,2006-08-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2006,2006,,68.144444,X,base year is 2015
+BEN,2007-08-01,2007-08-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2007,2007,,65.056027,X,base year is 2015
+BEN,2008-08-01,2008-08-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2008,2008,,87.351259,X,base year is 2015
+BEN,2009-08-01,2009-08-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2009,2009,,85.026321,X,base year is 2015
+BEN,2010-08-01,2010-08-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2010,2010,,86.936092,X,base year is 2015
+BEN,2011-08-01,2011-08-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2011,2011,,94.409108,X,base year is 2015
+BEN,2012-08-01,2012-08-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2012,2012,,96.152812,X,base year is 2015
+BEN,2013-08-01,2013-08-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2013,2013,,100.053726,X,base year is 2015
+BEN,2014-08-01,2014-08-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2014,2014,,97.481348,X,base year is 2015
+BEN,2015-08-01,2015-08-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2015,2015,,99.781376,X,base year is 2015
+BEN,2016-08-01,2016-08-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2016,2016,,95.488544,X,base year is 2015
+BEN,2017-08-01,2017-08-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2017,2017,,101.134823,X,base year is 2015
+BEN,2018-08-01,2018-08-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2018,2018,,101.917787,X,base year is 2015
+BEN,2019-08-01,2019-08-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2019,2019,,97.334974,X,base year is 2015
+BEN,2020-08-01,2020-08-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2020,2020,,103.551660,X,base year is 2015
+BEN,2021-08-01,2021-08-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2021,2021,,109.600054,X,base year is 2015
+BEN,2022-08-01,2022-08-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2022,2022,,105.294625,X,base year is 2015
+BEN,2023-08-01,2023-08-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2023,2023,,101.273624,X,base year is 2015
+BEN,2024-08-01,2024-08-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2024,2024,,108.008083,X,base year is 2015
+BEN,2025-08-01,2025-08-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2025,2025,,114.622901,X,base year is 2015
+BEN,2000-09-01,2000-09-30,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2000,2000,,60.572839,X,base year is 2015
+BEN,2001-09-01,2001-09-30,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2001,2001,,62.565367,X,base year is 2015
+BEN,2002-09-01,2002-09-30,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2002,2002,,64.358642,X,base year is 2015
+BEN,2003-09-01,2003-09-30,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2003,2003,,62.864246,X,base year is 2015
+BEN,2004-09-01,2004-09-30,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2004,2004,,63.860510,X,base year is 2015
+BEN,2005-09-01,2005-09-30,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2005,2005,,71.631368,X,base year is 2015
+BEN,2006-09-01,2006-09-30,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2006,2006,,70.933983,X,base year is 2015
+BEN,2007-09-01,2007-09-30,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2007,2007,,67.148181,X,base year is 2015
+BEN,2008-09-01,2008-09-30,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2008,2008,,85.109354,X,base year is 2015
+BEN,2009-09-01,2009-09-30,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2009,2009,,84.611153,X,base year is 2015
+BEN,2010-09-01,2010-09-30,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2010,2010,,88.845862,X,base year is 2015
+BEN,2011-09-01,2011-09-30,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2011,2011,,93.329672,X,base year is 2015
+BEN,2012-09-01,2012-09-30,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2012,2012,,98.394717,X,base year is 2015
+BEN,2013-09-01,2013-09-30,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2013,2013,,98.773350,X,base year is 2015
+BEN,2014-09-01,2014-09-30,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2014,2014,,95.986745,X,base year is 2015
+BEN,2015-09-01,2015-09-30,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2015,2015,,95.679521,X,base year is 2015
+BEN,2016-09-01,2016-09-30,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2016,2016,,92.939415,X,base year is 2015
+BEN,2017-09-01,2017-09-30,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2017,2017,,97.057877,X,base year is 2015
+BEN,2018-09-01,2018-09-30,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2018,2018,,101.220403,X,base year is 2015
+BEN,2019-09-01,2019-09-30,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2019,2019,,93.150666,X,base year is 2015
+BEN,2020-09-01,2020-09-30,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2020,2020,,101.957638,X,base year is 2015
+BEN,2021-09-01,2021-09-30,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2021,2021,,112.783271,X,base year is 2015
+BEN,2022-09-01,2022-09-30,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2022,2022,,104.753858,X,base year is 2015
+BEN,2023-09-01,2023-09-30,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2023,2023,,99.572301,X,base year is 2015
+BEN,2024-09-01,2024-09-30,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2024,2024,,105.513210,X,base year is 2015
+BEN,2025-09-01,2025-09-30,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2025,2025,,113.738465,X,base year is 2015
+BEN,2000-10-01,2000-10-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2000,2000,,61.867982,X,base year is 2015
+BEN,2001-10-01,2001-10-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2001,2001,,63.362378,X,base year is 2015
+BEN,2002-10-01,2002-10-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2002,2002,,64.956400,X,base year is 2015
+BEN,2003-10-01,2003-10-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2003,2003,,65.354906,X,base year is 2015
+BEN,2004-10-01,2004-10-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2004,2004,,63.760884,X,base year is 2015
+BEN,2005-10-01,2005-10-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2005,2005,,71.830620,X,base year is 2015
+BEN,2006-10-01,2006-10-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2006,2006,,69.140708,X,base year is 2015
+BEN,2007-10-01,2007-10-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2007,2007,,72.627631,X,base year is 2015
+BEN,2008-10-01,2008-10-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2008,2008,,86.686991,X,base year is 2015
+BEN,2009-10-01,2009-10-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2009,2009,,84.528120,X,base year is 2015
+BEN,2010-10-01,2010-10-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2010,2010,,91.419901,X,base year is 2015
+BEN,2011-10-01,2011-10-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2011,2011,,93.080572,X,base year is 2015
+BEN,2012-10-01,2012-10-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2012,2012,,100.387521,X,base year is 2015
+BEN,2013-10-01,2013-10-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2013,2013,,97.647415,X,base year is 2015
+BEN,2014-10-01,2014-10-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2014,2014,,96.817080,X,base year is 2015
+BEN,2015-10-01,2015-10-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2015,2015,,99.881017,X,base year is 2015
+BEN,2016-10-01,2016-10-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2016,2016,,93.686716,X,base year is 2015
+BEN,2017-10-01,2017-10-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2017,2017,,96.177722,X,base year is 2015
+BEN,2018-10-01,2018-10-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2018,2018,,101.917787,X,base year is 2015
+BEN,2019-10-01,2019-10-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2019,2019,,96.438336,X,base year is 2015
+BEN,2020-10-01,2020-10-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2020,2020,,103.681174,X,base year is 2015
+BEN,2021-10-01,2021-10-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2021,2021,,111.799906,X,base year is 2015
+BEN,2022-10-01,2022-10-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2022,2022,,110.930376,X,base year is 2015
+BEN,2023-10-01,2023-10-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2023,2023,,101.765770,X,base year is 2015
+BEN,2024-10-01,2024-10-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2024,2024,,106.220759,X,base year is 2015
+BEN,2000-11-01,2000-11-30,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2000,2000,,61.867982,X,base year is 2015
+BEN,2001-11-01,2001-11-30,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2001,2001,,64.757147,X,base year is 2015
+BEN,2002-11-01,2002-11-30,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2002,2002,,67.546686,X,base year is 2015
+BEN,2003-11-01,2003-11-30,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2003,2003,,66.351169,X,base year is 2015
+BEN,2004-11-01,2004-11-30,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2004,2004,,65.952664,X,base year is 2015
+BEN,2005-11-01,2005-11-30,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2005,2005,,71.432115,X,base year is 2015
+BEN,2006-11-01,2006-11-30,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2006,2006,,70.535477,X,base year is 2015
+BEN,2007-11-01,2007-11-30,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2007,2007,,75.417170,X,base year is 2015
+BEN,2008-11-01,2008-11-30,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2008,2008,,87.102159,X,base year is 2015
+BEN,2009-11-01,2009-11-30,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2009,2009,,83.946885,X,base year is 2015
+BEN,2010-11-01,2010-11-30,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2010,2010,,94.326074,X,base year is 2015
+BEN,2011-11-01,2011-11-30,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2011,2011,,93.910907,X,base year is 2015
+BEN,2012-11-01,2012-11-30,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2012,2012,,101.217856,X,base year is 2015
+BEN,2013-11-01,2013-11-30,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2013,2013,,97.149214,X,base year is 2015
+BEN,2014-11-01,2014-11-30,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2014,2014,,95.098286,X,base year is 2015
+BEN,2015-11-01,2015-11-30,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2015,2015,,101.732664,X,base year is 2015
+BEN,2016-11-01,2016-11-30,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2016,2016,,97.830089,X,base year is 2015
+BEN,2017-11-01,2017-11-30,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2017,2017,,103.111020,X,base year is 2015
+BEN,2018-11-01,2018-11-30,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2018,2018,,101.917787,X,base year is 2015
+BEN,2019-11-01,2019-11-30,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2019,2019,,99.128249,X,base year is 2015
+BEN,2020-11-01,2020-11-30,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2020,2020,,102.465732,X,base year is 2015
+BEN,2021-11-01,2021-11-30,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2021,2021,,110.047557,X,base year is 2015
+BEN,2022-11-01,2022-11-30,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2022,2022,,111.348805,X,base year is 2015
+BEN,2023-11-01,2023-11-30,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2023,2023,,106.437752,X,base year is 2015
+BEN,2024-11-01,2024-11-30,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2024,2024,,107.105195,X,base year is 2015
+BEN,2000-12-01,2000-12-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2000,2000,,64.557895,X,base year is 2015
+BEN,2001-12-01,2001-12-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2001,2001,,67.546686,X,base year is 2015
+BEN,2002-12-01,2002-12-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2002,2002,,67.546686,X,base year is 2015
+BEN,2003-12-01,2003-12-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2003,2003,,66.151917,X,base year is 2015
+BEN,2004-12-01,2004-12-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2004,2004,,66.849301,X,base year is 2015
+BEN,2005-12-01,2005-12-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2005,2005,,70.336225,X,base year is 2015
+BEN,2006-12-01,2006-12-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2006,2006,,72.826884,X,base year is 2015
+BEN,2007-12-01,2007-12-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2007,2007,,72.627631,X,base year is 2015
+BEN,2008-12-01,2008-12-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2008,2008,,85.358455,X,base year is 2015
+BEN,2009-12-01,2009-12-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2009,2009,,82.867449,X,base year is 2015
+BEN,2010-12-01,2010-12-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2010,2010,,94.322753,X,base year is 2015
+BEN,2011-12-01,2011-12-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2011,2011,,95.654611,X,base year is 2015
+BEN,2012-12-01,2012-12-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2012,2012,,101.799091,X,base year is 2015
+BEN,2013-12-01,2013-12-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2013,2013,,99.806287,X,base year is 2015
+BEN,2014-12-01,2014-12-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2014,2014,,96.418519,X,base year is 2015
+BEN,2015-12-01,2015-12-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2015,2015,,102.920043,X,base year is 2015
+BEN,2016-12-01,2016-12-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2016,2016,,98.818188,X,base year is 2015
+BEN,2017-12-01,2017-12-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2017,2017,,103.683952,X,base year is 2015
+BEN,2018-12-01,2018-12-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2018,2018,,101.618908,X,base year is 2015
+BEN,2019-12-01,2019-12-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2019,2019,,96.637589,X,base year is 2015
+BEN,2020-12-01,2020-12-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2020,2020,,100.811935,X,base year is 2015
+BEN,2021-12-01,2021-12-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2021,2021,,112.144345,X,base year is 2015
+BEN,2022-12-01,2022-12-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2022,2022,,111.743184,X,base year is 2015
+BEN,2023-12-01,2023-12-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2023,2023,,108.908943,X,base year is 2015
+BEN,2024-12-01,2024-12-31,53,'204,Benin,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2024,2024,,106.839864,X,base year is 2015
+BEN,2000-01-01,2000-01-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2000,2000,,65.675740,X,base year is 2015
+BEN,2001-01-01,2001-01-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2001,2001,,70.569700,X,base year is 2015
+BEN,2002-01-01,2002-01-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2002,2002,,72.382278,X,base year is 2015
+BEN,2003-01-01,2003-01-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2003,2003,,74.436533,X,base year is 2015
+BEN,2004-01-01,2004-01-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2004,2004,,75.403242,X,base year is 2015
+BEN,2005-01-01,2005-01-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2005,2005,,77.215819,X,base year is 2015
+BEN,2006-01-01,2006-01-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2006,2006,,80.901395,X,base year is 2015
+BEN,2007-01-01,2007-01-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2007,2007,,84.526550,X,base year is 2015
+BEN,2008-01-01,2008-01-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2008,2008,,85.614097,X,base year is 2015
+BEN,2009-01-01,2009-01-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2009,2009,,89.699417,X,base year is 2015
+BEN,2010-01-01,2010-01-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2010,2010,,89.521795,X,base year is 2015
+BEN,2011-01-01,2011-01-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2011,2011,,94.051171,X,base year is 2015
+BEN,2012-01-01,2012-01-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2012,2012,,99.646283,X,base year is 2015
+BEN,2013-01-01,2013-01-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2013,2013,,101.244887,X,base year is 2015
+BEN,2014-01-01,2014-01-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2014,2014,,100.712019,X,base year is 2015
+BEN,2015-01-01,2015-01-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2015,2015,,99.717332,X,base year is 2015
+BEN,2016-01-01,2016-01-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2016,2016,,99.646283,X,base year is 2015
+BEN,2017-01-01,2017-01-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2017,2017,,98.731527,X,base year is 2015
+BEN,2018-01-01,2018-01-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2018,2018,,99.601878,X,base year is 2015
+BEN,2019-01-01,2019-01-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2019,2019,,102.085785,X,base year is 2015
+BEN,2020-01-01,2020-01-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2020,2020,,102.634421,X,base year is 2015
+BEN,2021-01-01,2021-01-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2021,2021,,102.098118,X,base year is 2015
+BEN,2022-01-01,2022-01-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2022,2022,,110.169085,X,base year is 2015
+BEN,2023-01-01,2023-01-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2023,2023,,111.611473,X,base year is 2015
+BEN,2024-01-01,2024-01-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2024,2024,,110.268615,X,base year is 2015
+BEN,2025-01-01,2025-01-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2025,2025,,110.861562,X,base year is 2015
+BEN,2000-02-01,2000-02-29,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2000,2000,,65.917417,X,base year is 2015
+BEN,2001-02-01,2001-02-28,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2001,2001,,69.965508,X,base year is 2015
+BEN,2002-02-01,2002-02-28,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2002,2002,,72.442698,X,base year is 2015
+BEN,2003-02-01,2003-02-28,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2003,2003,,74.859468,X,base year is 2015
+BEN,2004-02-01,2004-02-29,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2004,2004,,75.101145,X,base year is 2015
+BEN,2005-02-01,2005-02-28,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2005,2005,,77.336658,X,base year is 2015
+BEN,2006-02-01,2006-02-28,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2006,2006,,81.868103,X,base year is 2015
+BEN,2007-02-01,2007-02-28,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2007,2007,,83.378584,X,base year is 2015
+BEN,2008-02-01,2008-02-29,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2008,2008,,85.525286,X,base year is 2015
+BEN,2009-02-01,2009-02-28,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2009,2009,,87.834380,X,base year is 2015
+BEN,2010-02-01,2010-02-28,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2010,2010,,89.166549,X,base year is 2015
+BEN,2011-02-01,2011-02-28,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2011,2011,,92.097322,X,base year is 2015
+BEN,2012-02-01,2012-02-29,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2012,2012,,97.870057,X,base year is 2015
+BEN,2013-02-01,2013-02-28,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2013,2013,,101.333698,X,base year is 2015
+BEN,2014-02-01,2014-02-28,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2014,2014,,99.823906,X,base year is 2015
+BEN,2015-02-01,2015-02-28,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2015,2015,,98.758170,X,base year is 2015
+BEN,2016-02-01,2016-02-29,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2016,2016,,98.580548,X,base year is 2015
+BEN,2017-02-01,2017-02-28,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2017,2017,,97.603623,X,base year is 2015
+BEN,2018-02-01,2018-02-28,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2018,2018,,99.095653,X,base year is 2015
+BEN,2019-02-01,2019-02-28,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2019,2019,,100.489136,X,base year is 2015
+BEN,2020-02-01,2020-02-29,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2020,2020,,103.952237,X,base year is 2015
+BEN,2021-02-01,2021-02-28,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2021,2021,,102.089221,X,base year is 2015
+BEN,2022-02-01,2022-02-28,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2022,2022,,104.612543,X,base year is 2015
+BEN,2023-02-01,2023-02-28,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2023,2023,,111.642504,X,base year is 2015
+BEN,2024-02-01,2024-02-29,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2024,2024,,111.865264,X,base year is 2015
+BEN,2025-02-01,2025-02-28,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2025,2025,,111.962472,X,base year is 2015
+BEN,2000-03-01,2000-03-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2000,2000,,67.729995,X,base year is 2015
+BEN,2001-03-01,2001-03-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2001,2001,,70.992635,X,base year is 2015
+BEN,2002-03-01,2002-03-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2002,2002,,72.684375,X,base year is 2015
+BEN,2003-03-01,2003-03-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2003,2003,,75.040726,X,base year is 2015
+BEN,2004-03-01,2004-03-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2004,2004,,74.496953,X,base year is 2015
+BEN,2005-03-01,2005-03-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2005,2005,,79.088817,X,base year is 2015
+BEN,2006-03-01,2006-03-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2006,2006,,82.351457,X,base year is 2015
+BEN,2007-03-01,2007-03-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2007,2007,,83.136907,X,base year is 2015
+BEN,2008-03-01,2008-03-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2008,2008,,86.146965,X,base year is 2015
+BEN,2009-03-01,2009-03-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2009,2009,,87.123889,X,base year is 2015
+BEN,2010-03-01,2010-03-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2010,2010,,89.788228,X,base year is 2015
+BEN,2011-03-01,2011-03-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2011,2011,,91.742077,X,base year is 2015
+BEN,2012-03-01,2012-03-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2012,2012,,98.580548,X,base year is 2015
+BEN,2013-03-01,2013-03-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2013,2013,,101.156075,X,base year is 2015
+BEN,2014-03-01,2014-03-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2014,2014,,100.090340,X,base year is 2015
+BEN,2015-03-01,2015-03-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2015,2015,,99.646283,X,base year is 2015
+BEN,2016-03-01,2016-03-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2016,2016,,99.823906,X,base year is 2015
+BEN,2017-03-01,2017-03-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2017,2017,,97.488169,X,base year is 2015
+BEN,2018-03-01,2018-03-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2018,2018,,98.491736,X,base year is 2015
+BEN,2019-03-01,2019-03-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2019,2019,,101.387251,X,base year is 2015
+BEN,2020-03-01,2020-03-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2020,2020,,103.483838,X,base year is 2015
+BEN,2021-03-01,2021-03-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2021,2021,,102.937782,X,base year is 2015
+BEN,2022-03-01,2022-03-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2022,2022,,105.015941,X,base year is 2015
+BEN,2023-03-01,2023-03-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2023,2023,,112.301687,X,base year is 2015
+BEN,2024-03-01,2024-03-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2024,2024,,112.364217,X,base year is 2015
+BEN,2025-03-01,2025-03-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2025,2025,,113.173472,X,base year is 2015
+BEN,2000-04-01,2000-04-30,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2000,2000,,68.394607,X,base year is 2015
+BEN,2001-04-01,2001-04-30,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2001,2001,,71.838505,X,base year is 2015
+BEN,2002-04-01,2002-04-30,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2002,2002,,73.771921,X,base year is 2015
+BEN,2003-04-01,2003-04-30,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2003,2003,,75.342822,X,base year is 2015
+BEN,2004-04-01,2004-04-30,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2004,2004,,74.980307,X,base year is 2015
+BEN,2005-04-01,2005-04-30,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2005,2005,,79.028397,X,base year is 2015
+BEN,2006-04-01,2006-04-30,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2006,2006,,83.136907,X,base year is 2015
+BEN,2007-04-01,2007-04-30,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2007,2007,,82.774392,X,base year is 2015
+BEN,2008-04-01,2008-04-30,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2008,2008,,86.502210,X,base year is 2015
+BEN,2009-04-01,2009-04-30,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2009,2009,,88.189625,X,base year is 2015
+BEN,2010-04-01,2010-04-30,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2010,2010,,90.853964,X,base year is 2015
+BEN,2011-04-01,2011-04-30,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2011,2011,,92.985435,X,base year is 2015
+BEN,2012-04-01,2012-04-30,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2012,2012,,98.935793,X,base year is 2015
+BEN,2013-04-01,2013-04-30,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2013,2013,,102.044188,X,base year is 2015
+BEN,2014-04-01,2014-04-30,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2014,2014,,100.356774,X,base year is 2015
+BEN,2015-04-01,2015-04-30,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2015,2015,,98.367400,X,base year is 2015
+BEN,2016-04-01,2016-04-30,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2016,2016,,102.310622,X,base year is 2015
+BEN,2017-04-01,2017-04-30,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2017,2017,,98.456212,X,base year is 2015
+BEN,2018-04-01,2018-04-30,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2018,2018,,100.356774,X,base year is 2015
+BEN,2019-04-01,2019-04-30,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2019,2019,,100.389345,X,base year is 2015
+BEN,2020-04-01,2020-04-30,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2020,2020,,103.567760,X,base year is 2015
+BEN,2021-04-01,2021-04-30,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2021,2021,,104.065070,X,base year is 2015
+BEN,2022-04-01,2022-04-30,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2022,2022,,105.141533,X,base year is 2015
+BEN,2023-04-01,2023-04-30,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2023,2023,,109.119067,X,base year is 2015
+BEN,2024-04-01,2024-04-30,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2024,2024,,112.563799,X,base year is 2015
+BEN,2025-04-01,2025-04-30,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2025,2025,,113.393654,X,base year is 2015
+BEN,2000-05-01,2000-05-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2000,2000,,69.119638,X,base year is 2015
+BEN,2001-05-01,2001-05-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2001,2001,,73.046890,X,base year is 2015
+BEN,2002-05-01,2002-05-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2002,2002,,73.590664,X,base year is 2015
+BEN,2003-05-01,2003-05-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2003,2003,,75.403242,X,base year is 2015
+BEN,2004-05-01,2004-05-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2004,2004,,75.463661,X,base year is 2015
+BEN,2005-05-01,2005-05-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2005,2005,,79.270074,X,base year is 2015
+BEN,2006-05-01,2006-05-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2006,2006,,83.922358,X,base year is 2015
+BEN,2007-05-01,2007-05-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2007,2007,,83.016069,X,base year is 2015
+BEN,2008-05-01,2008-05-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2008,2008,,87.301512,X,base year is 2015
+BEN,2009-05-01,2009-05-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2009,2009,,90.232285,X,base year is 2015
+BEN,2010-05-01,2010-05-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2010,2010,,91.386832,X,base year is 2015
+BEN,2011-05-01,2011-05-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2011,2011,,93.607115,X,base year is 2015
+BEN,2012-05-01,2012-05-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2012,2012,,100.267962,X,base year is 2015
+BEN,2013-05-01,2013-05-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2013,2013,,102.221811,X,base year is 2015
+BEN,2014-05-01,2014-05-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2014,2014,,101.955377,X,base year is 2015
+BEN,2015-05-01,2015-05-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2015,2015,,98.367400,X,base year is 2015
+BEN,2016-05-01,2016-05-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2016,2016,,102.248454,X,base year is 2015
+BEN,2017-05-01,2017-05-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2017,2017,,99.566353,X,base year is 2015
+BEN,2018-05-01,2018-05-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2018,2018,,100.445585,X,base year is 2015
+BEN,2019-05-01,2019-05-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2019,2019,,102.085785,X,base year is 2015
+BEN,2020-05-01,2020-05-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2020,2020,,104.329334,X,base year is 2015
+BEN,2021-05-01,2021-05-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2021,2021,,106.105092,X,base year is 2015
+BEN,2022-05-01,2022-05-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2022,2022,,106.588899,X,base year is 2015
+BEN,2023-05-01,2023-05-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2023,2023,,110.457194,X,base year is 2015
+BEN,2024-05-01,2024-05-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2024,2024,,113.062752,X,base year is 2015
+BEN,2025-05-01,2025-05-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2025,2025,,113.723926,X,base year is 2015
+BEN,2000-06-01,2000-06-30,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2000,2000,,70.871797,X,base year is 2015
+BEN,2001-06-01,2001-06-30,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2001,2001,,72.684375,X,base year is 2015
+BEN,2002-06-01,2002-06-30,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2002,2002,,74.799049,X,base year is 2015
+BEN,2003-06-01,2003-06-30,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2003,2003,,75.040726,X,base year is 2015
+BEN,2004-06-01,2004-06-30,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2004,2004,,75.765757,X,base year is 2015
+BEN,2005-06-01,2005-06-30,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2005,2005,,79.874267,X,base year is 2015
+BEN,2006-06-01,2006-06-30,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2006,2006,,83.257746,X,base year is 2015
+BEN,2007-06-01,2007-06-30,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2007,2007,,84.526550,X,base year is 2015
+BEN,2008-06-01,2008-06-30,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2008,2008,,87.834380,X,base year is 2015
+BEN,2009-06-01,2009-06-30,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2009,2009,,88.278436,X,base year is 2015
+BEN,2010-06-01,2010-06-30,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2010,2010,,92.363756,X,base year is 2015
+BEN,2011-06-01,2011-06-30,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2011,2011,,94.051171,X,base year is 2015
+BEN,2012-06-01,2012-06-30,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2012,2012,,100.356774,X,base year is 2015
+BEN,2013-06-01,2013-06-30,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2013,2013,,100.818592,X,base year is 2015
+BEN,2014-06-01,2014-06-30,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2014,2014,,100.818592,X,base year is 2015
+BEN,2015-06-01,2015-06-30,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2015,2015,,102.346147,X,base year is 2015
+BEN,2016-06-01,2016-06-30,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2016,2016,,101.236006,X,base year is 2015
+BEN,2017-06-01,2017-06-30,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2017,2017,,100.543277,X,base year is 2015
+BEN,2018-06-01,2018-06-30,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2018,2018,,100.889641,X,base year is 2015
+BEN,2019-06-01,2019-06-30,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2019,2019,,100.289555,X,base year is 2015
+BEN,2020-06-01,2020-06-30,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2020,2020,,104.184028,X,base year is 2015
+BEN,2021-06-01,2021-06-30,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2021,2021,,108.953254,X,base year is 2015
+BEN,2022-06-01,2022-06-30,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2022,2022,,106.163633,X,base year is 2015
+BEN,2023-06-01,2023-06-30,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2023,2023,,110.697556,X,base year is 2015
+BEN,2024-06-01,2024-06-30,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2024,2024,,111.565893,X,base year is 2015
+BEN,2025-06-01,2025-06-30,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2025,2025,,113.613835,X,base year is 2015
+BEN,2000-07-01,2000-07-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2000,2000,,70.328023,X,base year is 2015
+BEN,2001-07-01,2001-07-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2001,2001,,72.926052,X,base year is 2015
+BEN,2002-07-01,2002-07-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2002,2002,,76.249111,X,base year is 2015
+BEN,2003-07-01,2003-07-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2003,2003,,75.161564,X,base year is 2015
+BEN,2004-07-01,2004-07-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2004,2004,,75.947015,X,base year is 2015
+BEN,2005-07-01,2005-07-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2005,2005,,80.659717,X,base year is 2015
+BEN,2006-07-01,2006-07-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2006,2006,,81.868103,X,base year is 2015
+BEN,2007-07-01,2007-07-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2007,2007,,83.318165,X,base year is 2015
+BEN,2008-07-01,2008-07-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2008,2008,,89.432983,X,base year is 2015
+BEN,2009-07-01,2009-07-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2009,2009,,90.587530,X,base year is 2015
+BEN,2010-07-01,2010-07-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2010,2010,,90.942775,X,base year is 2015
+BEN,2011-07-01,2011-07-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2011,2011,,94.051171,X,base year is 2015
+BEN,2012-07-01,2012-07-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2012,2012,,99.735095,X,base year is 2015
+BEN,2013-07-01,2013-07-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2013,2013,,100.028172,X,base year is 2015
+BEN,2014-07-01,2014-07-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2014,2014,,100.028172,X,base year is 2015
+BEN,2015-07-01,2015-07-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2015,2015,,102.088594,X,base year is 2015
+BEN,2016-07-01,2016-07-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2016,2016,,99.823906,X,base year is 2015
+BEN,2017-07-01,2017-07-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2017,2017,,100.543277,X,base year is 2015
+BEN,2018-07-01,2018-07-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2018,2018,,100.623208,X,base year is 2015
+BEN,2019-07-01,2019-07-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2019,2019,,101.087879,X,base year is 2015
+BEN,2020-07-01,2020-07-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2020,2020,,105.139949,X,base year is 2015
+BEN,2021-07-01,2021-07-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2021,2021,,107.937971,X,base year is 2015
+BEN,2022-07-01,2022-07-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2022,2022,,106.896822,X,base year is 2015
+BEN,2023-07-01,2023-07-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2023,2023,,111.066940,X,base year is 2015
+BEN,2024-07-01,2024-07-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2024,2024,,112.164636,X,base year is 2015
+BEN,2025-07-01,2025-07-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2025,2025,,113.283563,X,base year is 2015
+BEN,2000-08-01,2000-08-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2000,2000,,69.965508,X,base year is 2015
+BEN,2001-08-01,2001-08-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2001,2001,,72.201021,X,base year is 2015
+BEN,2002-08-01,2002-08-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2002,2002,,74.255276,X,base year is 2015
+BEN,2003-08-01,2003-08-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2003,2003,,74.315695,X,base year is 2015
+BEN,2004-08-01,2004-08-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2004,2004,,75.101145,X,base year is 2015
+BEN,2005-08-01,2005-08-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2005,2005,,80.538879,X,base year is 2015
+BEN,2006-08-01,2006-08-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2006,2006,,81.082652,X,base year is 2015
+BEN,2007-08-01,2007-08-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2007,2007,,81.928522,X,base year is 2015
+BEN,2008-08-01,2008-08-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2008,2008,,91.031587,X,base year is 2015
+BEN,2009-08-01,2009-08-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2009,2009,,89.521795,X,base year is 2015
+BEN,2010-08-01,2010-08-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2010,2010,,90.409908,X,base year is 2015
+BEN,2011-08-01,2011-08-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2011,2011,,93.962360,X,base year is 2015
+BEN,2012-08-01,2012-08-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2012,2012,,99.379849,X,base year is 2015
+BEN,2013-08-01,2013-08-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2013,2013,,98.900268,X,base year is 2015
+BEN,2014-08-01,2014-08-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2014,2014,,98.900268,X,base year is 2015
+BEN,2015-08-01,2015-08-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2015,2015,,100.676494,X,base year is 2015
+BEN,2016-08-01,2016-08-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2016,2016,,97.852295,X,base year is 2015
+BEN,2017-08-01,2017-08-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2017,2017,,99.903836,X,base year is 2015
+BEN,2018-08-01,2018-08-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2018,2018,,100.289555,X,base year is 2015
+BEN,2019-08-01,2019-08-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2019,2019,,99.890392,X,base year is 2015
+BEN,2020-08-01,2020-08-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2020,2020,,104.592932,X,base year is 2015
+BEN,2021-08-01,2021-08-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2021,2021,,106.076669,X,base year is 2015
+BEN,2022-08-01,2022-08-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2022,2022,,105.779003,X,base year is 2015
+BEN,2023-08-01,2023-08-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2023,2023,,107.973431,X,base year is 2015
+BEN,2024-08-01,2024-08-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2024,2024,,111.166730,X,base year is 2015
+BEN,2025-08-01,2025-08-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2025,2025,,112.623017,X,base year is 2015
+BEN,2000-09-01,2000-09-30,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2000,2000,,69.542573,X,base year is 2015
+BEN,2001-09-01,2001-09-30,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2001,2001,,71.959343,X,base year is 2015
+BEN,2002-09-01,2002-09-30,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2002,2002,,73.107309,X,base year is 2015
+BEN,2003-09-01,2003-09-30,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2003,2003,,73.953179,X,base year is 2015
+BEN,2004-09-01,2004-09-30,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2004,2004,,75.221984,X,base year is 2015
+BEN,2005-09-01,2005-09-30,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2005,2005,,80.659717,X,base year is 2015
+BEN,2006-09-01,2006-09-30,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2006,2006,,83.257746,X,base year is 2015
+BEN,2007-09-01,2007-09-30,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2007,2007,,82.955650,X,base year is 2015
+BEN,2008-09-01,2008-09-30,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2008,2008,,89.788228,X,base year is 2015
+BEN,2009-09-01,2009-09-30,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2009,2009,,89.610606,X,base year is 2015
+BEN,2010-09-01,2010-09-30,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2010,2010,,91.209209,X,base year is 2015
+BEN,2011-09-01,2011-09-30,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2011,2011,,93.607115,X,base year is 2015
+BEN,2012-09-01,2012-09-30,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2012,2012,,100.534396,X,base year is 2015
+BEN,2013-09-01,2013-09-30,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2013,2013,,98.562785,X,base year is 2015
+BEN,2014-09-01,2014-09-30,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2014,2014,,98.562785,X,base year is 2015
+BEN,2015-09-01,2015-09-30,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2015,2015,,98.402925,X,base year is 2015
+BEN,2016-09-01,2016-09-30,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2016,2016,,96.351384,X,base year is 2015
+BEN,2017-09-01,2017-09-30,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2017,2017,,98.322995,X,base year is 2015
+BEN,2018-09-01,2018-09-30,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2018,2018,,100.089973,X,base year is 2015
+BEN,2019-09-01,2019-09-30,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2019,2019,,99.491230,X,base year is 2015
+BEN,2020-09-01,2020-09-30,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2020,2020,,104.273006,X,base year is 2015
+BEN,2021-09-01,2021-09-30,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2021,2021,,107.344647,X,base year is 2015
+BEN,2022-09-01,2022-09-30,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2022,2022,,105.670869,X,base year is 2015
+BEN,2023-09-01,2023-09-30,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2023,2023,,107.274897,X,base year is 2015
+BEN,2024-09-01,2024-09-30,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2024,2024,,110.069034,X,base year is 2015
+BEN,2025-09-01,2025-09-30,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2025,2025,,112.531898,X,base year is 2015
+BEN,2000-10-01,2000-10-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2000,2000,,70.630120,X,base year is 2015
+BEN,2001-10-01,2001-10-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2001,2001,,72.080182,X,base year is 2015
+BEN,2002-10-01,2002-10-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2002,2002,,73.348987,X,base year is 2015
+BEN,2003-10-01,2003-10-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2003,2003,,74.859468,X,base year is 2015
+BEN,2004-10-01,2004-10-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2004,2004,,75.282403,X,base year is 2015
+BEN,2005-10-01,2005-10-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2005,2005,,80.840975,X,base year is 2015
+BEN,2006-10-01,2006-10-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2006,2006,,82.532715,X,base year is 2015
+BEN,2007-10-01,2007-10-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2007,2007,,84.586970,X,base year is 2015
+BEN,2008-10-01,2008-10-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2008,2008,,90.498719,X,base year is 2015
+BEN,2009-10-01,2009-10-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2009,2009,,89.699417,X,base year is 2015
+BEN,2010-10-01,2010-10-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2010,2010,,91.919700,X,base year is 2015
+BEN,2011-10-01,2011-10-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2011,2011,,93.873548,X,base year is 2015
+BEN,2012-10-01,2012-10-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2012,2012,,100.623208,X,base year is 2015
+BEN,2013-10-01,2013-10-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2013,2013,,99.468661,X,base year is 2015
+BEN,2014-10-01,2014-10-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2014,2014,,98.971317,X,base year is 2015
+BEN,2015-10-01,2015-10-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2015,2015,,100.001528,X,base year is 2015
+BEN,2016-10-01,2016-10-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2016,2016,,96.582293,X,base year is 2015
+BEN,2017-10-01,2017-10-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2017,2017,,98.163134,X,base year is 2015
+BEN,2018-10-01,2018-10-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2018,2018,,100.688717,X,base year is 2015
+BEN,2019-10-01,2019-10-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2019,2019,,100.289555,X,base year is 2015
+BEN,2020-10-01,2020-10-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2020,2020,,104.705365,X,base year is 2015
+BEN,2021-10-01,2021-10-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2021,2021,,107.115178,X,base year is 2015
+BEN,2022-10-01,2022-10-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2022,2022,,109.377130,X,base year is 2015
+BEN,2023-10-01,2023-10-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2023,2023,,108.173012,X,base year is 2015
+BEN,2024-10-01,2024-10-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2024,2024,,110.368405,X,base year is 2015
+BEN,2000-11-01,2000-11-30,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2000,2000,,70.811377,X,base year is 2015
+BEN,2001-11-01,2001-11-30,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2001,2001,,72.140601,X,base year is 2015
+BEN,2002-11-01,2002-11-30,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2002,2002,,74.376114,X,base year is 2015
+BEN,2003-11-01,2003-11-30,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2003,2003,,75.221984,X,base year is 2015
+BEN,2004-11-01,2004-11-30,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2004,2004,,76.732465,X,base year is 2015
+BEN,2005-11-01,2005-11-30,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2005,2005,,80.720137,X,base year is 2015
+BEN,2006-11-01,2006-11-30,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2006,2006,,83.016069,X,base year is 2015
+BEN,2007-11-01,2007-11-30,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2007,2007,,85.674516,X,base year is 2015
+BEN,2008-11-01,2008-11-30,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2008,2008,,90.765153,X,base year is 2015
+BEN,2009-11-01,2009-11-30,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2009,2009,,89.610606,X,base year is 2015
+BEN,2010-11-01,2010-11-30,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2010,2010,,92.807813,X,base year is 2015
+BEN,2011-11-01,2011-11-30,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2011,2011,,94.228794,X,base year is 2015
+BEN,2012-11-01,2012-11-30,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2012,2012,,101.688943,X,base year is 2015
+BEN,2013-11-01,2013-11-30,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2013,2013,,98.846981,X,base year is 2015
+BEN,2014-11-01,2014-11-30,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2014,2014,,98.509499,X,base year is 2015
+BEN,2015-11-01,2015-11-30,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2015,2015,,100.747543,X,base year is 2015
+BEN,2016-11-01,2016-11-30,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2016,2016,,97.932225,X,base year is 2015
+BEN,2017-11-01,2017-11-30,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2017,2017,,100.640970,X,base year is 2015
+BEN,2018-11-01,2018-11-30,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2018,2018,,100.489136,X,base year is 2015
+BEN,2019-11-01,2019-11-30,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2019,2019,,102.085785,X,base year is 2015
+BEN,2020-11-01,2020-11-30,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2020,2020,,104.190223,X,base year is 2015
+BEN,2021-11-01,2021-11-30,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2021,2021,,106.835715,X,base year is 2015
+BEN,2022-11-01,2022-11-30,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2022,2022,,110.293279,X,base year is 2015
+BEN,2023-11-01,2023-11-30,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2023,2023,,110.168824,X,base year is 2015
+BEN,2024-11-01,2024-11-30,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2024,2024,,110.767568,X,base year is 2015
+BEN,2000-12-01,2000-12-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2000,2000,,72.019763,X,base year is 2015
+BEN,2001-12-01,2001-12-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2001,2001,,73.711502,X,base year is 2015
+BEN,2002-12-01,2002-12-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2002,2002,,74.617791,X,base year is 2015
+BEN,2003-12-01,2003-12-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2003,2003,,75.161564,X,base year is 2015
+BEN,2004-12-01,2004-12-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2004,2004,,77.155400,X,base year is 2015
+BEN,2005-12-01,2005-12-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2005,2005,,80.055525,X,base year is 2015
+BEN,2006-12-01,2006-12-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2006,2006,,84.224454,X,base year is 2015
+BEN,2007-12-01,2007-12-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2007,2007,,84.466131,X,base year is 2015
+BEN,2008-12-01,2008-12-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2008,2008,,90.054662,X,base year is 2015
+BEN,2009-12-01,2009-12-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2009,2009,,89.610606,X,base year is 2015
+BEN,2010-12-01,2010-12-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2010,2010,,93.251869,X,base year is 2015
+BEN,2011-12-01,2011-12-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2011,2011,,94.939284,X,base year is 2015
+BEN,2012-12-01,2012-12-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2012,2012,,101.333698,X,base year is 2015
+BEN,2013-12-01,2013-12-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2013,2013,,99.468661,X,base year is 2015
+BEN,2014-12-01,2014-12-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2014,2014,,98.758170,X,base year is 2015
+BEN,2015-12-01,2015-12-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2015,2015,,100.987334,X,base year is 2015
+BEN,2016-12-01,2016-12-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2016,2016,,98.198659,X,base year is 2015
+BEN,2017-12-01,2017-12-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2017,2017,,101.138313,X,base year is 2015
+BEN,2018-12-01,2018-12-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2018,2018,,100.988089,X,base year is 2015
+BEN,2019-12-01,2019-12-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2019,2019,,101.287461,X,base year is 2015
+BEN,2020-12-01,2020-12-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2020,2020,,102.406963,X,base year is 2015
+BEN,2021-12-01,2021-12-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2021,2021,,107.526555,X,base year is 2015
+BEN,2022-12-01,2022-12-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2022,2022,,110.519068,X,base year is 2015
+BEN,2023-12-01,2023-12-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2023,2023,,110.967149,X,base year is 2015
+BEN,2024-12-01,2024-12-31,53,'204,Benin,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2024,2024,,110.567987,X,base year is 2015
+BEN,2001-01-01,2001-01-31,53,'204,Benin,23014,Food price inflation,6121,Value,7001,January,2001,2001,%,3.511706,E,
+BEN,2002-01-01,2002-01-31,53,'204,Benin,23014,Food price inflation,6121,Value,7001,January,2002,2002,%,4.361874,E,
+BEN,2003-01-01,2003-01-31,53,'204,Benin,23014,Food price inflation,6121,Value,7001,January,2003,2003,%,5.108359,E,
+BEN,2004-01-01,2004-01-31,53,'204,Benin,23014,Food price inflation,6121,Value,7001,January,2004,2004,%,-2.503682,E,
+BEN,2005-01-01,2005-01-31,53,'204,Benin,23014,Food price inflation,6121,Value,7001,January,2005,2005,%,2.870091,E,
+BEN,2006-01-01,2006-01-31,53,'204,Benin,23014,Food price inflation,6121,Value,7001,January,2006,2006,%,6.901615,E,
+BEN,2007-01-01,2007-01-31,53,'204,Benin,23014,Food price inflation,6121,Value,7001,January,2007,2007,%,-0.137363,E,
+BEN,2008-01-01,2008-01-31,53,'204,Benin,23014,Food price inflation,6121,Value,7001,January,2008,2008,%,6.387999,E,
+BEN,2009-01-01,2009-01-31,53,'204,Benin,23014,Food price inflation,6121,Value,7001,January,2009,2009,%,14.224138,E,
+BEN,2010-01-01,2010-01-31,53,'204,Benin,23014,Food price inflation,6121,Value,7001,January,2010,2010,%,-5.377358,E,
+BEN,2011-01-01,2011-01-31,53,'204,Benin,23014,Food price inflation,6121,Value,7001,January,2011,2011,%,14.855434,E,
+BEN,2012-01-01,2012-01-31,53,'204,Benin,23014,Food price inflation,6121,Value,7001,January,2012,2012,%,-2.256944,E,
+BEN,2013-01-01,2013-01-31,53,'204,Benin,23014,Food price inflation,6121,Value,7001,January,2013,2013,%,7.349911,E,
+BEN,2014-01-01,2014-01-31,53,'204,Benin,23014,Food price inflation,6121,Value,7001,January,2014,2014,%,2.832655,E,
+BEN,2015-01-01,2015-01-31,53,'204,Benin,23014,Food price inflation,6121,Value,7001,January,2015,2015,%,-2.292840,E,
+BEN,2016-01-01,2016-01-31,53,'204,Benin,23014,Food price inflation,6121,Value,7001,January,2016,2016,%,-0.946892,E,
+BEN,2017-01-01,2017-01-31,53,'204,Benin,23014,Food price inflation,6121,Value,7001,January,2017,2017,%,-2.701579,E,
+BEN,2018-01-01,2018-01-31,53,'204,Benin,23014,Food price inflation,6121,Value,7001,January,2018,2018,%,-0.059804,E,
+BEN,2019-01-01,2019-01-31,53,'204,Benin,23014,Food price inflation,6121,Value,7001,January,2019,2019,%,6.977788,E,
+BEN,2020-01-01,2020-01-31,53,'204,Benin,23014,Food price inflation,6121,Value,7001,January,2020,2020,%,-3.394056,E,
+BEN,2021-01-01,2021-01-31,53,'204,Benin,23014,Food price inflation,6121,Value,7001,January,2021,2021,%,0.456530,E,
+BEN,2022-01-01,2022-01-31,53,'204,Benin,23014,Food price inflation,6121,Value,7001,January,2022,2022,%,15.458142,E,
+BEN,2023-01-01,2023-01-31,53,'204,Benin,23014,Food price inflation,6121,Value,7001,January,2023,2023,%,-1.848352,E,
+BEN,2024-01-01,2024-01-31,53,'204,Benin,23014,Food price inflation,6121,Value,7001,January,2024,2024,%,-5.513023,E,
+BEN,2025-01-01,2025-01-31,53,'204,Benin,23014,Food price inflation,6121,Value,7001,January,2025,2025,%,1.649061,E,
+BEN,2001-02-01,2001-02-28,53,'204,Benin,23014,Food price inflation,6121,Value,7002,February,2001,2001,%,0.840336,E,
+BEN,2002-02-01,2002-02-28,53,'204,Benin,23014,Food price inflation,6121,Value,7002,February,2002,2002,%,8.166667,E,
+BEN,2003-02-01,2003-02-28,53,'204,Benin,23014,Food price inflation,6121,Value,7002,February,2003,2003,%,3.697997,E,
+BEN,2004-02-01,2004-02-29,53,'204,Benin,23014,Food price inflation,6121,Value,7002,February,2004,2004,%,-2.377415,E,
+BEN,2005-02-01,2005-02-28,53,'204,Benin,23014,Food price inflation,6121,Value,7002,February,2005,2005,%,4.414003,E,
+BEN,2006-02-01,2006-02-28,53,'204,Benin,23014,Food price inflation,6121,Value,7002,February,2006,2006,%,0.000000,E,
+BEN,2007-02-01,2007-02-28,53,'204,Benin,23014,Food price inflation,6121,Value,7002,February,2007,2007,%,4.227405,E,
+BEN,2008-02-01,2008-02-29,53,'204,Benin,23014,Food price inflation,6121,Value,7002,February,2008,2008,%,7.590701,E,
+BEN,2009-02-01,2009-02-28,53,'204,Benin,23014,Food price inflation,6121,Value,7002,February,2009,2009,%,9.100758,E,
+BEN,2010-02-01,2010-02-28,53,'204,Benin,23014,Food price inflation,6121,Value,7002,February,2010,2010,%,-0.695134,E,
+BEN,2011-02-01,2011-02-28,53,'204,Benin,23014,Food price inflation,6121,Value,7002,February,2011,2011,%,9.500000,E,
+BEN,2012-02-01,2012-02-29,53,'204,Benin,23014,Food price inflation,6121,Value,7002,February,2012,2012,%,2.648402,E,
+BEN,2013-02-01,2013-02-28,53,'204,Benin,23014,Food price inflation,6121,Value,7002,February,2013,2013,%,7.609431,E,
+BEN,2014-02-01,2014-02-28,53,'204,Benin,23014,Food price inflation,6121,Value,7002,February,2014,2014,%,-0.291849,E,
+BEN,2015-02-01,2015-02-28,53,'204,Benin,23014,Food price inflation,6121,Value,7002,February,2015,2015,%,-1.890547,E,
+BEN,2016-02-01,2016-02-29,53,'204,Benin,23014,Food price inflation,6121,Value,7002,February,2016,2016,%,-0.270453,E,
+BEN,2017-02-01,2017-02-28,53,'204,Benin,23014,Food price inflation,6121,Value,7002,February,2017,2017,%,-2.491525,E,
+BEN,2018-02-01,2018-02-28,53,'204,Benin,23014,Food price inflation,6121,Value,7002,February,2018,2018,%,1.407961,E,
+BEN,2019-02-01,2019-02-28,53,'204,Benin,23014,Food price inflation,6121,Value,7002,February,2019,2019,%,2.831105,E,
+BEN,2020-02-01,2020-02-29,53,'204,Benin,23014,Food price inflation,6121,Value,7002,February,2020,2020,%,3.570000,E,
+BEN,2021-02-01,2021-02-28,53,'204,Benin,23014,Food price inflation,6121,Value,7002,February,2021,2021,%,-2.442335,E,
+BEN,2022-02-01,2022-02-28,53,'204,Benin,23014,Food price inflation,6121,Value,7002,February,2022,2022,%,4.515429,E,
+BEN,2023-02-01,2023-02-28,53,'204,Benin,23014,Food price inflation,6121,Value,7002,February,2023,2023,%,8.895186,E,
+BEN,2024-02-01,2024-02-29,53,'204,Benin,23014,Food price inflation,6121,Value,7002,February,2024,2024,%,-2.819739,E,
+BEN,2025-02-01,2025-02-28,53,'204,Benin,23014,Food price inflation,6121,Value,7002,February,2025,2025,%,0.330475,E,
+BEN,2001-03-01,2001-03-31,53,'204,Benin,23014,Food price inflation,6121,Value,7003,March,2001,2001,%,1.449275,E,
+BEN,2002-03-01,2002-03-31,53,'204,Benin,23014,Food price inflation,6121,Value,7003,March,2002,2002,%,4.920635,E,
+BEN,2003-03-01,2003-03-31,53,'204,Benin,23014,Food price inflation,6121,Value,7003,March,2003,2003,%,-1.361573,E,
+BEN,2004-03-01,2004-03-31,53,'204,Benin,23014,Food price inflation,6121,Value,7003,March,2004,2004,%,-1.533742,E,
+BEN,2005-03-01,2005-03-31,53,'204,Benin,23014,Food price inflation,6121,Value,7003,March,2005,2005,%,11.682243,E,
+BEN,2006-03-01,2006-03-31,53,'204,Benin,23014,Food price inflation,6121,Value,7003,March,2006,2006,%,-3.068340,E,
+BEN,2007-03-01,2007-03-31,53,'204,Benin,23014,Food price inflation,6121,Value,7003,March,2007,2007,%,1.438849,E,
+BEN,2008-03-01,2008-03-31,53,'204,Benin,23014,Food price inflation,6121,Value,7003,March,2008,2008,%,11.481205,E,
+BEN,2009-03-01,2009-03-31,53,'204,Benin,23014,Food price inflation,6121,Value,7003,March,2009,2009,%,4.665960,E,
+BEN,2010-03-01,2010-03-31,53,'204,Benin,23014,Food price inflation,6121,Value,7003,March,2010,2010,%,2.938197,E,
+BEN,2011-03-01,2011-03-31,53,'204,Benin,23014,Food price inflation,6121,Value,7003,March,2011,2011,%,5.807087,E,
+BEN,2012-03-01,2012-03-31,53,'204,Benin,23014,Food price inflation,6121,Value,7003,March,2012,2012,%,7.255814,E,
+BEN,2013-03-01,2013-03-31,53,'204,Benin,23014,Food price inflation,6121,Value,7003,March,2013,2013,%,5.197745,E,
+BEN,2014-03-01,2014-03-31,53,'204,Benin,23014,Food price inflation,6121,Value,7003,March,2014,2014,%,-0.983569,E,
+BEN,2015-03-01,2015-03-31,53,'204,Benin,23014,Food price inflation,6121,Value,7003,March,2015,2015,%,1.473772,E,
+BEN,2016-03-01,2016-03-31,53,'204,Benin,23014,Food price inflation,6121,Value,7003,March,2016,2016,%,-1.435956,E,
+BEN,2017-03-01,2017-03-31,53,'204,Benin,23014,Food price inflation,6121,Value,7003,March,2017,2017,%,-4.945055,E,
+BEN,2018-03-01,2018-03-31,53,'204,Benin,23014,Food price inflation,6121,Value,7003,March,2018,2018,%,1.944298,E,
+BEN,2019-03-01,2019-03-31,53,'204,Benin,23014,Food price inflation,6121,Value,7003,March,2019,2019,%,6.995447,E,
+BEN,2020-03-01,2020-03-31,53,'204,Benin,23014,Food price inflation,6121,Value,7003,March,2020,2020,%,-1.339114,E,
+BEN,2021-03-01,2021-03-31,53,'204,Benin,23014,Food price inflation,6121,Value,7003,March,2021,2021,%,1.142467,E,
+BEN,2022-03-01,2022-03-31,53,'204,Benin,23014,Food price inflation,6121,Value,7003,March,2022,2022,%,1.960380,E,
+BEN,2023-03-01,2023-03-31,53,'204,Benin,23014,Food price inflation,6121,Value,7003,March,2023,2023,%,10.849963,E,
+BEN,2024-03-01,2024-03-31,53,'204,Benin,23014,Food price inflation,6121,Value,7003,March,2024,2024,%,-2.355027,E,
+BEN,2025-03-01,2025-03-31,53,'204,Benin,23014,Food price inflation,6121,Value,7003,March,2025,2025,%,0.647791,E,
+BEN,2001-04-01,2001-04-30,53,'204,Benin,23014,Food price inflation,6121,Value,7004,April,2001,2001,%,0.789889,E,
+BEN,2002-04-01,2002-04-30,53,'204,Benin,23014,Food price inflation,6121,Value,7004,April,2002,2002,%,6.583072,E,
+BEN,2003-04-01,2003-04-30,53,'204,Benin,23014,Food price inflation,6121,Value,7004,April,2003,2003,%,-2.500000,E,
+BEN,2004-04-01,2004-04-30,53,'204,Benin,23014,Food price inflation,6121,Value,7004,April,2004,2004,%,-1.809955,E,
+BEN,2005-04-01,2005-04-30,53,'204,Benin,23014,Food price inflation,6121,Value,7004,April,2005,2005,%,8.909370,E,
+BEN,2006-04-01,2006-04-30,53,'204,Benin,23014,Food price inflation,6121,Value,7004,April,2006,2006,%,2.115656,E,
+BEN,2007-04-01,2007-04-30,53,'204,Benin,23014,Food price inflation,6121,Value,7004,April,2007,2007,%,-3.038674,E,
+BEN,2008-04-01,2008-04-30,53,'204,Benin,23014,Food price inflation,6121,Value,7004,April,2008,2008,%,12.195070,E,
+BEN,2009-04-01,2009-04-30,53,'204,Benin,23014,Food price inflation,6121,Value,7004,April,2009,2009,%,7.830688,E,
+BEN,2010-04-01,2010-04-30,53,'204,Benin,23014,Food price inflation,6121,Value,7004,April,2010,2010,%,3.532875,E,
+BEN,2011-04-01,2011-04-30,53,'204,Benin,23014,Food price inflation,6121,Value,7004,April,2011,2011,%,5.402844,E,
+BEN,2012-04-01,2012-04-30,53,'204,Benin,23014,Food price inflation,6121,Value,7004,April,2012,2012,%,4.406475,E,
+BEN,2013-04-01,2013-04-30,53,'204,Benin,23014,Food price inflation,6121,Value,7004,April,2013,2013,%,5.982773,E,
+BEN,2014-04-01,2014-04-30,53,'204,Benin,23014,Food price inflation,6121,Value,7004,April,2014,2014,%,-0.931359,E,
+BEN,2015-04-01,2015-04-30,53,'204,Benin,23014,Food price inflation,6121,Value,7004,April,2015,2015,%,-4.405250,E,
+BEN,2016-04-01,2016-04-30,53,'204,Benin,23014,Food price inflation,6121,Value,7004,April,2016,2016,%,7.628937,E,
+BEN,2017-04-01,2017-04-30,53,'204,Benin,23014,Food price inflation,6121,Value,7004,April,2017,2017,%,-6.705470,E,
+BEN,2018-04-01,2018-04-30,53,'204,Benin,23014,Food price inflation,6121,Value,7004,April,2018,2018,%,5.290146,E,
+BEN,2019-04-01,2019-04-30,53,'204,Benin,23014,Food price inflation,6121,Value,7004,April,2019,2019,%,-2.708320,E,
+BEN,2020-04-01,2020-04-30,53,'204,Benin,23014,Food price inflation,6121,Value,7004,April,2020,2020,%,3.143143,E,
+BEN,2021-04-01,2021-04-30,53,'204,Benin,23014,Food price inflation,6121,Value,7004,April,2021,2021,%,2.892081,E,
+BEN,2022-04-01,2022-04-30,53,'204,Benin,23014,Food price inflation,6121,Value,7004,April,2022,2022,%,-1.070873,E,
+BEN,2023-04-01,2023-04-30,53,'204,Benin,23014,Food price inflation,6121,Value,7004,April,2023,2023,%,4.133678,E,
+BEN,2024-04-01,2024-04-30,53,'204,Benin,23014,Food price inflation,6121,Value,7004,April,2024,2024,%,3.319931,E,
+BEN,2025-04-01,2025-04-30,53,'204,Benin,23014,Food price inflation,6121,Value,7004,April,2025,2025,%,3.528671,E,
+BEN,2001-05-01,2001-05-31,53,'204,Benin,23014,Food price inflation,6121,Value,7005,May,2001,2001,%,2.954899,E,
+BEN,2002-05-01,2002-05-31,53,'204,Benin,23014,Food price inflation,6121,Value,7005,May,2002,2002,%,3.323263,E,
+BEN,2003-05-01,2003-05-31,53,'204,Benin,23014,Food price inflation,6121,Value,7005,May,2003,2003,%,-2.631579,E,
+BEN,2004-05-01,2004-05-31,53,'204,Benin,23014,Food price inflation,6121,Value,7005,May,2004,2004,%,-0.900901,E,
+BEN,2005-05-01,2005-05-31,53,'204,Benin,23014,Food price inflation,6121,Value,7005,May,2005,2005,%,8.787879,E,
+BEN,2006-05-01,2006-05-31,53,'204,Benin,23014,Food price inflation,6121,Value,7005,May,2006,2006,%,3.899721,E,
+BEN,2007-05-01,2007-05-31,53,'204,Benin,23014,Food price inflation,6121,Value,7005,May,2007,2007,%,-6.032172,E,
+BEN,2008-05-01,2008-05-31,53,'204,Benin,23014,Food price inflation,6121,Value,7005,May,2008,2008,%,16.278632,E,
+BEN,2009-05-01,2009-05-31,53,'204,Benin,23014,Food price inflation,6121,Value,7005,May,2009,2009,%,10.633947,E,
+BEN,2010-05-01,2010-05-31,53,'204,Benin,23014,Food price inflation,6121,Value,7005,May,2010,2010,%,-1.293900,E,
+BEN,2011-05-01,2011-05-31,53,'204,Benin,23014,Food price inflation,6121,Value,7005,May,2011,2011,%,6.086142,E,
+BEN,2012-05-01,2012-05-31,53,'204,Benin,23014,Food price inflation,6121,Value,7005,May,2012,2012,%,6.619594,E,
+BEN,2013-05-01,2013-05-31,53,'204,Benin,23014,Food price inflation,6121,Value,7005,May,2013,2013,%,2.849338,E,
+BEN,2014-05-01,2014-05-31,53,'204,Benin,23014,Food price inflation,6121,Value,7005,May,2014,2014,%,2.300349,E,
+BEN,2015-05-01,2015-05-31,53,'204,Benin,23014,Food price inflation,6121,Value,7005,May,2015,2015,%,-8.316286,E,
+BEN,2016-05-01,2016-05-31,53,'204,Benin,23014,Food price inflation,6121,Value,7005,May,2016,2016,%,10.786922,E,
+BEN,2017-05-01,2017-05-31,53,'204,Benin,23014,Food price inflation,6121,Value,7005,May,2017,2017,%,-6.219985,E,
+BEN,2018-05-01,2018-05-31,53,'204,Benin,23014,Food price inflation,6121,Value,7005,May,2018,2018,%,1.759313,E,
+BEN,2019-05-01,2019-05-31,53,'204,Benin,23014,Food price inflation,6121,Value,7005,May,2019,2019,%,3.719359,E,
+BEN,2020-05-01,2020-05-31,53,'204,Benin,23014,Food price inflation,6121,Value,7005,May,2020,2020,%,-1.061033,E,
+BEN,2021-05-01,2021-05-31,53,'204,Benin,23014,Food price inflation,6121,Value,7005,May,2021,2021,%,5.091423,E,
+BEN,2022-05-01,2022-05-31,53,'204,Benin,23014,Food price inflation,6121,Value,7005,May,2022,2022,%,-1.731662,E,
+BEN,2023-05-01,2023-05-31,53,'204,Benin,23014,Food price inflation,6121,Value,7005,May,2023,2023,%,3.073194,E,
+BEN,2024-05-01,2024-05-31,53,'204,Benin,23014,Food price inflation,6121,Value,7005,May,2024,2024,%,1.072934,E,
+BEN,2025-05-01,2025-05-31,53,'204,Benin,23014,Food price inflation,6121,Value,7005,May,2025,2025,%,2.898475,E,
+BEN,2001-06-01,2001-06-30,53,'204,Benin,23014,Food price inflation,6121,Value,7006,June,2001,2001,%,0.000000,E,
+BEN,2002-06-01,2002-06-30,53,'204,Benin,23014,Food price inflation,6121,Value,7006,June,2002,2002,%,8.487654,E,
+BEN,2003-06-01,2003-06-30,53,'204,Benin,23014,Food price inflation,6121,Value,7006,June,2003,2003,%,-6.258890,E,
+BEN,2004-06-01,2004-06-30,53,'204,Benin,23014,Food price inflation,6121,Value,7006,June,2004,2004,%,-0.303490,E,
+BEN,2005-06-01,2005-06-30,53,'204,Benin,23014,Food price inflation,6121,Value,7006,June,2005,2005,%,11.263318,E,
+BEN,2006-06-01,2006-06-30,53,'204,Benin,23014,Food price inflation,6121,Value,7006,June,2006,2006,%,-0.683995,E,
+BEN,2007-06-01,2007-06-30,53,'204,Benin,23014,Food price inflation,6121,Value,7006,June,2007,2007,%,-3.719008,E,
+BEN,2008-06-01,2008-06-30,53,'204,Benin,23014,Food price inflation,6121,Value,7006,June,2008,2008,%,18.042146,E,
+BEN,2009-06-01,2009-06-30,53,'204,Benin,23014,Food price inflation,6121,Value,7006,June,2009,2009,%,2.626263,E,
+BEN,2010-06-01,2010-06-30,53,'204,Benin,23014,Food price inflation,6121,Value,7006,June,2010,2010,%,8.464567,E,
+BEN,2011-06-01,2011-06-30,53,'204,Benin,23014,Food price inflation,6121,Value,7006,June,2011,2011,%,3.357532,E,
+BEN,2012-06-01,2012-06-30,53,'204,Benin,23014,Food price inflation,6121,Value,7006,June,2012,2012,%,5.970149,E,
+BEN,2013-06-01,2013-06-30,53,'204,Benin,23014,Food price inflation,6121,Value,7006,June,2013,2013,%,0.541011,E,
+BEN,2014-06-01,2014-06-30,53,'204,Benin,23014,Food price inflation,6121,Value,7006,June,2014,2014,%,1.522006,E,
+BEN,2015-06-01,2015-06-30,53,'204,Benin,23014,Food price inflation,6121,Value,7006,June,2015,2015,%,-1.501623,E,
+BEN,2016-06-01,2016-06-30,53,'204,Benin,23014,Food price inflation,6121,Value,7006,June,2016,2016,%,4.738360,E,
+BEN,2017-06-01,2017-06-30,53,'204,Benin,23014,Food price inflation,6121,Value,7006,June,2017,2017,%,-2.250197,E,
+BEN,2018-06-01,2018-06-30,53,'204,Benin,23014,Food price inflation,6121,Value,7006,June,2018,2018,%,-0.595621,E,
+BEN,2019-06-01,2019-06-30,53,'204,Benin,23014,Food price inflation,6121,Value,7006,June,2019,2019,%,-0.807301,E,
+BEN,2020-06-01,2020-06-30,53,'204,Benin,23014,Food price inflation,6121,Value,7006,June,2020,2020,%,3.075416,E,
+BEN,2021-06-01,2021-06-30,53,'204,Benin,23014,Food price inflation,6121,Value,7006,June,2021,2021,%,11.915423,E,
+BEN,2022-06-01,2022-06-30,53,'204,Benin,23014,Food price inflation,6121,Value,7006,June,2022,2022,%,-8.970378,E,
+BEN,2023-06-01,2023-06-30,53,'204,Benin,23014,Food price inflation,6121,Value,7006,June,2023,2023,%,2.164157,E,
+BEN,2024-06-01,2024-06-30,53,'204,Benin,23014,Food price inflation,6121,Value,7006,June,2024,2024,%,-0.080231,E,
+BEN,2025-06-01,2025-06-30,53,'204,Benin,23014,Food price inflation,6121,Value,7006,June,2025,2025,%,5.851998,E,
+BEN,2001-07-01,2001-07-31,53,'204,Benin,23014,Food price inflation,6121,Value,7007,July,2001,2001,%,2.992126,E,
+BEN,2002-07-01,2002-07-31,53,'204,Benin,23014,Food price inflation,6121,Value,7007,July,2002,2002,%,12.691131,E,
+BEN,2003-07-01,2003-07-31,53,'204,Benin,23014,Food price inflation,6121,Value,7007,July,2003,2003,%,-10.719132,E,
+BEN,2004-07-01,2004-07-31,53,'204,Benin,23014,Food price inflation,6121,Value,7007,July,2004,2004,%,0.759878,E,
+BEN,2005-07-01,2005-07-31,53,'204,Benin,23014,Food price inflation,6121,Value,7007,July,2005,2005,%,12.217195,E,
+BEN,2006-07-01,2006-07-31,53,'204,Benin,23014,Food price inflation,6121,Value,7007,July,2006,2006,%,-5.645161,E,
+BEN,2007-07-01,2007-07-31,53,'204,Benin,23014,Food price inflation,6121,Value,7007,July,2007,2007,%,-2.279202,E,
+BEN,2008-07-01,2008-07-31,53,'204,Benin,23014,Food price inflation,6121,Value,7007,July,2008,2008,%,25.867822,E,
+BEN,2009-07-01,2009-07-31,53,'204,Benin,23014,Food price inflation,6121,Value,7007,July,2009,2009,%,1.544402,E,
+BEN,2010-07-01,2010-07-31,53,'204,Benin,23014,Food price inflation,6121,Value,7007,July,2010,2010,%,0.475285,E,
+BEN,2011-07-01,2011-07-31,53,'204,Benin,23014,Food price inflation,6121,Value,7007,July,2011,2011,%,8.136235,E,
+BEN,2012-07-01,2012-07-31,53,'204,Benin,23014,Food price inflation,6121,Value,7007,July,2012,2012,%,2.537183,E,
+BEN,2013-07-01,2013-07-31,53,'204,Benin,23014,Food price inflation,6121,Value,7007,July,2013,2013,%,6.674915,E,
+BEN,2014-07-01,2014-07-31,53,'204,Benin,23014,Food price inflation,6121,Value,7007,July,2014,2014,%,-2.177999,E,
+BEN,2015-07-01,2015-07-31,53,'204,Benin,23014,Food price inflation,6121,Value,7007,July,2015,2015,%,4.284546,E,
+BEN,2016-07-01,2016-07-31,53,'204,Benin,23014,Food price inflation,6121,Value,7007,July,2016,2016,%,-3.951701,E,
+BEN,2017-07-01,2017-07-31,53,'204,Benin,23014,Food price inflation,6121,Value,7007,July,2017,2017,%,1.420408,E,
+BEN,2018-07-01,2018-07-31,53,'204,Benin,23014,Food price inflation,6121,Value,7007,July,2018,2018,%,-1.641983,E,
+BEN,2019-07-01,2019-07-31,53,'204,Benin,23014,Food price inflation,6121,Value,7007,July,2019,2019,%,1.622545,E,
+BEN,2020-07-01,2020-07-31,53,'204,Benin,23014,Food price inflation,6121,Value,7007,July,2020,2020,%,2.048309,E,
+BEN,2021-07-01,2021-07-31,53,'204,Benin,23014,Food price inflation,6121,Value,7007,July,2021,2021,%,8.852009,E,
+BEN,2022-07-01,2022-07-31,53,'204,Benin,23014,Food price inflation,6121,Value,7007,July,2022,2022,%,-5.298175,E,
+BEN,2023-07-01,2023-07-31,53,'204,Benin,23014,Food price inflation,6121,Value,7007,July,2023,2023,%,1.335280,E,
+BEN,2024-07-01,2024-07-31,53,'204,Benin,23014,Food price inflation,6121,Value,7007,July,2024,2024,%,0.430358,E,
+BEN,2025-07-01,2025-07-31,53,'204,Benin,23014,Food price inflation,6121,Value,7007,July,2025,2025,%,3.831804,E,
+BEN,2001-08-01,2001-08-31,53,'204,Benin,23014,Food price inflation,6121,Value,7008,August,2001,2001,%,1.269841,E,
+BEN,2002-08-01,2002-08-31,53,'204,Benin,23014,Food price inflation,6121,Value,7008,August,2002,2002,%,7.680251,E,
+BEN,2003-08-01,2003-08-31,53,'204,Benin,23014,Food price inflation,6121,Value,7008,August,2003,2003,%,-7.423581,E,
+BEN,2004-08-01,2004-08-31,53,'204,Benin,23014,Food price inflation,6121,Value,7008,August,2004,2004,%,0.471698,E,
+BEN,2005-08-01,2005-08-31,53,'204,Benin,23014,Food price inflation,6121,Value,7008,August,2005,2005,%,14.866980,E,
+BEN,2006-08-01,2006-08-31,53,'204,Benin,23014,Food price inflation,6121,Value,7008,August,2006,2006,%,-6.811989,E,
+BEN,2007-08-01,2007-08-31,53,'204,Benin,23014,Food price inflation,6121,Value,7008,August,2007,2007,%,-4.532164,E,
+BEN,2008-08-01,2008-08-31,53,'204,Benin,23014,Food price inflation,6121,Value,7008,August,2008,2008,%,34.270818,E,
+BEN,2009-08-01,2009-08-31,53,'204,Benin,23014,Food price inflation,6121,Value,7008,August,2009,2009,%,-2.661597,E,
+BEN,2010-08-01,2010-08-31,53,'204,Benin,23014,Food price inflation,6121,Value,7008,August,2010,2010,%,2.246094,E,
+BEN,2011-08-01,2011-08-31,53,'204,Benin,23014,Food price inflation,6121,Value,7008,August,2011,2011,%,8.595989,E,
+BEN,2012-08-01,2012-08-31,53,'204,Benin,23014,Food price inflation,6121,Value,7008,August,2012,2012,%,1.846966,E,
+BEN,2013-08-01,2013-08-31,53,'204,Benin,23014,Food price inflation,6121,Value,7008,August,2013,2013,%,4.056995,E,
+BEN,2014-08-01,2014-08-31,53,'204,Benin,23014,Food price inflation,6121,Value,7008,August,2014,2014,%,-2.570997,E,
+BEN,2015-08-01,2015-08-31,53,'204,Benin,23014,Food price inflation,6121,Value,7008,August,2015,2015,%,2.359455,E,
+BEN,2016-08-01,2016-08-31,53,'204,Benin,23014,Food price inflation,6121,Value,7008,August,2016,2016,%,-4.302238,E,
+BEN,2017-08-01,2017-08-31,53,'204,Benin,23014,Food price inflation,6121,Value,7008,August,2017,2017,%,5.913043,E,
+BEN,2018-08-01,2018-08-31,53,'204,Benin,23014,Food price inflation,6121,Value,7008,August,2018,2018,%,0.774179,E,
+BEN,2019-08-01,2019-08-31,53,'204,Benin,23014,Food price inflation,6121,Value,7008,August,2019,2019,%,-4.496579,E,
+BEN,2020-08-01,2020-08-31,53,'204,Benin,23014,Food price inflation,6121,Value,7008,August,2020,2020,%,6.386899,E,
+BEN,2021-08-01,2021-08-31,53,'204,Benin,23014,Food price inflation,6121,Value,7008,August,2021,2021,%,5.840944,E,
+BEN,2022-08-01,2022-08-31,53,'204,Benin,23014,Food price inflation,6121,Value,7008,August,2022,2022,%,-3.928309,E,
+BEN,2023-08-01,2023-08-31,53,'204,Benin,23014,Food price inflation,6121,Value,7008,August,2023,2023,%,-3.818810,E,
+BEN,2024-08-01,2024-08-31,53,'204,Benin,23014,Food price inflation,6121,Value,7008,August,2024,2024,%,6.649766,E,
+BEN,2025-08-01,2025-08-31,53,'204,Benin,23014,Food price inflation,6121,Value,7008,August,2025,2025,%,6.124372,E,
+BEN,2001-09-01,2001-09-30,53,'204,Benin,23014,Food price inflation,6121,Value,7009,September,2001,2001,%,3.289474,E,
+BEN,2002-09-01,2002-09-30,53,'204,Benin,23014,Food price inflation,6121,Value,7009,September,2002,2002,%,2.866242,E,
+BEN,2003-09-01,2003-09-30,53,'204,Benin,23014,Food price inflation,6121,Value,7009,September,2003,2003,%,-2.321981,E,
+BEN,2004-09-01,2004-09-30,53,'204,Benin,23014,Food price inflation,6121,Value,7009,September,2004,2004,%,1.584786,E,
+BEN,2005-09-01,2005-09-30,53,'204,Benin,23014,Food price inflation,6121,Value,7009,September,2005,2005,%,12.168487,E,
+BEN,2006-09-01,2006-09-30,53,'204,Benin,23014,Food price inflation,6121,Value,7009,September,2006,2006,%,-0.973574,E,
+BEN,2007-09-01,2007-09-30,53,'204,Benin,23014,Food price inflation,6121,Value,7009,September,2007,2007,%,-5.337079,E,
+BEN,2008-09-01,2008-09-30,53,'204,Benin,23014,Food price inflation,6121,Value,7009,September,2008,2008,%,26.748563,E,
+BEN,2009-09-01,2009-09-30,53,'204,Benin,23014,Food price inflation,6121,Value,7009,September,2009,2009,%,-0.585366,E,
+BEN,2010-09-01,2010-09-30,53,'204,Benin,23014,Food price inflation,6121,Value,7009,September,2010,2010,%,5.004907,E,
+BEN,2011-09-01,2011-09-30,53,'204,Benin,23014,Food price inflation,6121,Value,7009,September,2011,2011,%,5.046729,E,
+BEN,2012-09-01,2012-09-30,53,'204,Benin,23014,Food price inflation,6121,Value,7009,September,2012,2012,%,5.427046,E,
+BEN,2013-09-01,2013-09-30,53,'204,Benin,23014,Food price inflation,6121,Value,7009,September,2013,2013,%,0.384810,E,
+BEN,2014-09-01,2014-09-30,53,'204,Benin,23014,Food price inflation,6121,Value,7009,September,2014,2014,%,-2.821211,E,
+BEN,2015-09-01,2015-09-30,53,'204,Benin,23014,Food price inflation,6121,Value,7009,September,2015,2015,%,-0.320069,E,
+BEN,2016-09-01,2016-09-30,53,'204,Benin,23014,Food price inflation,6121,Value,7009,September,2016,2016,%,-2.863838,E,
+BEN,2017-09-01,2017-09-30,53,'204,Benin,23014,Food price inflation,6121,Value,7009,September,2017,2017,%,4.431341,E,
+BEN,2018-09-01,2018-09-30,53,'204,Benin,23014,Food price inflation,6121,Value,7009,September,2018,2018,%,4.288704,E,
+BEN,2019-09-01,2019-09-30,53,'204,Benin,23014,Food price inflation,6121,Value,7009,September,2019,2019,%,-7.972441,E,
+BEN,2020-09-01,2020-09-30,53,'204,Benin,23014,Food price inflation,6121,Value,7009,September,2020,2020,%,9.454545,E,
+BEN,2021-09-01,2021-09-30,53,'204,Benin,23014,Food price inflation,6121,Value,7009,September,2021,2021,%,10.617776,E,
+BEN,2022-09-01,2022-09-30,53,'204,Benin,23014,Food price inflation,6121,Value,7009,September,2022,2022,%,-7.119330,E,
+BEN,2023-09-01,2023-09-30,53,'204,Benin,23014,Food price inflation,6121,Value,7009,September,2023,2023,%,-4.946411,E,
+BEN,2024-09-01,2024-09-30,53,'204,Benin,23014,Food price inflation,6121,Value,7009,September,2024,2024,%,5.966427,E,
+BEN,2025-09-01,2025-09-30,53,'204,Benin,23014,Food price inflation,6121,Value,7009,September,2025,2025,%,7.795474,E,
+BEN,2001-10-01,2001-10-31,53,'204,Benin,23014,Food price inflation,6121,Value,7010,October,2001,2001,%,2.415459,E,
+BEN,2002-10-01,2002-10-31,53,'204,Benin,23014,Food price inflation,6121,Value,7010,October,2002,2002,%,2.515723,E,
+BEN,2003-10-01,2003-10-31,53,'204,Benin,23014,Food price inflation,6121,Value,7010,October,2003,2003,%,0.613497,E,
+BEN,2004-10-01,2004-10-31,53,'204,Benin,23014,Food price inflation,6121,Value,7010,October,2004,2004,%,-2.439024,E,
+BEN,2005-10-01,2005-10-31,53,'204,Benin,23014,Food price inflation,6121,Value,7010,October,2005,2005,%,12.656250,E,
+BEN,2006-10-01,2006-10-31,53,'204,Benin,23014,Food price inflation,6121,Value,7010,October,2006,2006,%,-3.744799,E,
+BEN,2007-10-01,2007-10-31,53,'204,Benin,23014,Food price inflation,6121,Value,7010,October,2007,2007,%,5.043228,E,
+BEN,2008-10-01,2008-10-31,53,'204,Benin,23014,Food price inflation,6121,Value,7010,October,2008,2008,%,19.358141,E,
+BEN,2009-10-01,2009-10-31,53,'204,Benin,23014,Food price inflation,6121,Value,7010,October,2009,2009,%,-2.490421,E,
+BEN,2010-10-01,2010-10-31,53,'204,Benin,23014,Food price inflation,6121,Value,7010,October,2010,2010,%,8.153242,E,
+BEN,2011-10-01,2011-10-31,53,'204,Benin,23014,Food price inflation,6121,Value,7010,October,2011,2011,%,1.816530,E,
+BEN,2012-10-01,2012-10-31,53,'204,Benin,23014,Food price inflation,6121,Value,7010,October,2012,2012,%,7.850134,E,
+BEN,2013-10-01,2013-10-31,53,'204,Benin,23014,Food price inflation,6121,Value,7010,October,2013,2013,%,-2.729529,E,
+BEN,2014-10-01,2014-10-31,53,'204,Benin,23014,Food price inflation,6121,Value,7010,October,2014,2014,%,-0.850340,E,
+BEN,2015-10-01,2015-10-31,53,'204,Benin,23014,Food price inflation,6121,Value,7010,October,2015,2015,%,3.164666,E,
+BEN,2016-10-01,2016-10-31,53,'204,Benin,23014,Food price inflation,6121,Value,7010,October,2016,2016,%,-6.201679,E,
+BEN,2017-10-01,2017-10-31,53,'204,Benin,23014,Food price inflation,6121,Value,7010,October,2017,2017,%,2.658867,E,
+BEN,2018-10-01,2018-10-31,53,'204,Benin,23014,Food price inflation,6121,Value,7010,October,2018,2018,%,5.968186,E,
+BEN,2019-10-01,2019-10-31,53,'204,Benin,23014,Food price inflation,6121,Value,7010,October,2019,2019,%,-5.376344,E,
+BEN,2020-10-01,2020-10-31,53,'204,Benin,23014,Food price inflation,6121,Value,7010,October,2020,2020,%,7.510331,E,
+BEN,2021-10-01,2021-10-31,53,'204,Benin,23014,Food price inflation,6121,Value,7010,October,2021,2021,%,7.830478,E,
+BEN,2022-10-01,2022-10-31,53,'204,Benin,23014,Food price inflation,6121,Value,7010,October,2022,2022,%,-0.777755,E,
+BEN,2023-10-01,2023-10-31,53,'204,Benin,23014,Food price inflation,6121,Value,7010,October,2023,2023,%,-8.261584,E,
+BEN,2024-10-01,2024-10-31,53,'204,Benin,23014,Food price inflation,6121,Value,7010,October,2024,2024,%,4.377689,E,
+BEN,2001-11-01,2001-11-30,53,'204,Benin,23014,Food price inflation,6121,Value,7011,November,2001,2001,%,4.669887,E,
+BEN,2002-11-01,2002-11-30,53,'204,Benin,23014,Food price inflation,6121,Value,7011,November,2002,2002,%,4.307692,E,
+BEN,2003-11-01,2003-11-30,53,'204,Benin,23014,Food price inflation,6121,Value,7011,November,2003,2003,%,-1.769912,E,
+BEN,2004-11-01,2004-11-30,53,'204,Benin,23014,Food price inflation,6121,Value,7011,November,2004,2004,%,-0.600601,E,
+BEN,2005-11-01,2005-11-30,53,'204,Benin,23014,Food price inflation,6121,Value,7011,November,2005,2005,%,8.308157,E,
+BEN,2006-11-01,2006-11-30,53,'204,Benin,23014,Food price inflation,6121,Value,7011,November,2006,2006,%,-1.255230,E,
+BEN,2007-11-01,2007-11-30,53,'204,Benin,23014,Food price inflation,6121,Value,7011,November,2007,2007,%,6.920904,E,
+BEN,2008-11-01,2008-11-30,53,'204,Benin,23014,Food price inflation,6121,Value,7011,November,2008,2008,%,15.493804,E,
+BEN,2009-11-01,2009-11-30,53,'204,Benin,23014,Food price inflation,6121,Value,7011,November,2009,2009,%,-3.622498,E,
+BEN,2010-11-01,2010-11-30,53,'204,Benin,23014,Food price inflation,6121,Value,7011,November,2010,2010,%,12.363996,E,
+BEN,2011-11-01,2011-11-30,53,'204,Benin,23014,Food price inflation,6121,Value,7011,November,2011,2011,%,-0.440141,E,
+BEN,2012-11-01,2012-11-30,53,'204,Benin,23014,Food price inflation,6121,Value,7011,November,2012,2012,%,7.780725,E,
+BEN,2013-11-01,2013-11-30,53,'204,Benin,23014,Food price inflation,6121,Value,7011,November,2013,2013,%,-4.019688,E,
+BEN,2014-11-01,2014-11-30,53,'204,Benin,23014,Food price inflation,6121,Value,7011,November,2014,2014,%,-2.111111,E,
+BEN,2015-11-01,2015-11-30,53,'204,Benin,23014,Food price inflation,6121,Value,7011,November,2015,2015,%,6.976338,E,
+BEN,2016-11-01,2016-11-30,53,'204,Benin,23014,Food price inflation,6121,Value,7011,November,2016,2016,%,-3.836108,E,
+BEN,2017-11-01,2017-11-30,53,'204,Benin,23014,Food price inflation,6121,Value,7011,November,2017,2017,%,5.398065,E,
+BEN,2018-11-01,2018-11-30,53,'204,Benin,23014,Food price inflation,6121,Value,7011,November,2018,2018,%,-1.157231,E,
+BEN,2019-11-01,2019-11-30,53,'204,Benin,23014,Food price inflation,6121,Value,7011,November,2019,2019,%,-2.737048,E,
+BEN,2020-11-01,2020-11-30,53,'204,Benin,23014,Food price inflation,6121,Value,7011,November,2020,2020,%,3.366834,E,
+BEN,2021-11-01,2021-11-30,53,'204,Benin,23014,Food price inflation,6121,Value,7011,November,2021,2021,%,7.399375,E,
+BEN,2022-11-01,2022-11-30,53,'204,Benin,23014,Food price inflation,6121,Value,7011,November,2022,2022,%,1.182442,E,
+BEN,2023-11-01,2023-11-30,53,'204,Benin,23014,Food price inflation,6121,Value,7011,November,2023,2023,%,-4.410513,E,
+BEN,2024-11-01,2024-11-30,53,'204,Benin,23014,Food price inflation,6121,Value,7011,November,2024,2024,%,0.627074,E,
+BEN,2001-12-01,2001-12-31,53,'204,Benin,23014,Food price inflation,6121,Value,7012,December,2001,2001,%,4.629630,E,
+BEN,2002-12-01,2002-12-31,53,'204,Benin,23014,Food price inflation,6121,Value,7012,December,2002,2002,%,0.000000,E,
+BEN,2003-12-01,2003-12-31,53,'204,Benin,23014,Food price inflation,6121,Value,7012,December,2003,2003,%,-2.064897,E,
+BEN,2004-12-01,2004-12-31,53,'204,Benin,23014,Food price inflation,6121,Value,7012,December,2004,2004,%,1.054217,E,
+BEN,2005-12-01,2005-12-31,53,'204,Benin,23014,Food price inflation,6121,Value,7012,December,2005,2005,%,5.216095,E,
+BEN,2006-12-01,2006-12-31,53,'204,Benin,23014,Food price inflation,6121,Value,7012,December,2006,2006,%,3.541076,E,
+BEN,2007-12-01,2007-12-31,53,'204,Benin,23014,Food price inflation,6121,Value,7012,December,2007,2007,%,-0.273598,E,
+BEN,2008-12-01,2008-12-31,53,'204,Benin,23014,Food price inflation,6121,Value,7012,December,2008,2008,%,17.528898,E,
+BEN,2009-12-01,2009-12-31,53,'204,Benin,23014,Food price inflation,6121,Value,7012,December,2009,2009,%,-2.918288,E,
+BEN,2010-12-01,2010-12-31,53,'204,Benin,23014,Food price inflation,6121,Value,7012,December,2010,2010,%,13.823647,E,
+BEN,2011-12-01,2011-12-31,53,'204,Benin,23014,Food price inflation,6121,Value,7012,December,2011,2011,%,1.412022,E,
+BEN,2012-12-01,2012-12-31,53,'204,Benin,23014,Food price inflation,6121,Value,7012,December,2012,2012,%,6.423611,E,
+BEN,2013-12-01,2013-12-31,53,'204,Benin,23014,Food price inflation,6121,Value,7012,December,2013,2013,%,-1.957586,E,
+BEN,2014-12-01,2014-12-31,53,'204,Benin,23014,Food price inflation,6121,Value,7012,December,2014,2014,%,-3.394343,E,
+BEN,2015-12-01,2015-12-31,53,'204,Benin,23014,Food price inflation,6121,Value,7012,December,2015,2015,%,6.743024,E,
+BEN,2016-12-01,2016-12-31,53,'204,Benin,23014,Food price inflation,6121,Value,7012,December,2016,2016,%,-3.985478,E,
+BEN,2017-12-01,2017-12-31,53,'204,Benin,23014,Food price inflation,6121,Value,7012,December,2017,2017,%,4.923956,E,
+BEN,2018-12-01,2018-12-31,53,'204,Benin,23014,Food price inflation,6121,Value,7012,December,2018,2018,%,-1.991671,E,
+BEN,2019-12-01,2019-12-31,53,'204,Benin,23014,Food price inflation,6121,Value,7012,December,2019,2019,%,-4.901961,E,
+BEN,2020-12-01,2020-12-31,53,'204,Benin,23014,Food price inflation,6121,Value,7012,December,2020,2020,%,4.319588,E,
+BEN,2021-12-01,2021-12-31,53,'204,Benin,23014,Food price inflation,6121,Value,7012,December,2021,2021,%,11.241140,E,
+BEN,2022-12-01,2022-12-31,53,'204,Benin,23014,Food price inflation,6121,Value,7012,December,2022,2022,%,-0.357718,E,
+BEN,2023-12-01,2023-12-31,53,'204,Benin,23014,Food price inflation,6121,Value,7012,December,2023,2023,%,-2.536388,E,
+BEN,2024-12-01,2024-12-31,53,'204,Benin,23014,Food price inflation,6121,Value,7012,December,2024,2024,%,-1.899825,E,
