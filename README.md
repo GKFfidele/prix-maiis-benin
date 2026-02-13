@@ -1,3 +1,4 @@
+
 # Prédiction des Prix du Maïs au Bénin 🇧🇯🌽
 
 **Prévisions mensuelles intelligentes des prix du maïs à la production**  
@@ -58,3 +59,5 @@ prix-mais-benin/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
+
+
