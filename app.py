@@ -1,4 +1,4 @@
-from pathlib import Path
+﻿from pathlib import Path
 import pandas as pd
 import streamlit as st
 from prophet import Prophet
@@ -144,7 +144,7 @@ st.markdown("""
     <div class="title-card">
         <h1>🌽 Prévision des Prix du Maïs au Bénin</h1>
         <p style="font-size: 1.15rem; color: #8b949e; margin-top: 0.5rem;">
-            Modèle Prophet – Précision historique : MAPE 10.6 %
+            Modèle Prophet – Précision historique : MAPE 5.1 %
         </p>
     </div>
 """, unsafe_allow_html=True)
@@ -176,24 +176,24 @@ with st.sidebar:
     st.markdown("### Guide rapide")
     st.markdown(
         """
-        1. Choisis l'horizon selon ton besoin (court, moyen, long terme).
-        2. Active la décomposition pour lire tendance et saisonnalité.
-        3. Active les métriques pour vérifier la qualité (MAE, MAPE).
-        4. Compare le pic et le creux pour mieux planifier les décisions.
+        1. Choisissez l'horizon selon votre besoin (court, moyen, long terme).
+        2. Activez la décomposition pour lire tendance et saisonnalité.
+        3. Activez les métriques pour vérifier la qualité (MAE, MAPE).
+        4. Comparez le pic et le creux pour mieux planifier les décisions.
         """
     )
     with st.expander("Explorer les graphiques", expanded=True):
         st.markdown(
             """
-            - Survole les courbes pour afficher les valeurs mensuelles.
-            - Zoome sur une période pour examiner les variations locales.
-            - Lis les bornes basse/haute pour comprendre l'incertitude.
-            - Télécharge le CSV pour une analyse avancée dans Excel/Power BI.
+            - Survolez les courbes pour afficher les valeurs mensuelles.
+            - Zoomez sur une période pour examiner les variations locales.
+            - Lisez les bornes basse/haute pour comprendre l'incertitude.
+            - Téléchargez le CSV pour une analyse avancée dans Excel/Power BI.
             """
         )
 
     st.markdown("---")
-    st.caption("Projet par **Fidele GOUSSIKINDE**")
+    st.caption("Projet par **GKF Fidele GOUSSIKINDE**")
     st.caption("Data Science & Web Development – Abomey-Calavi, Bénin 🇧🇯")
 
 # ────────────────────────────────────────────────
@@ -299,8 +299,22 @@ with col_side:
     st.metric("Creux attendu", f"{trough['yhat']:,.0f} FCFA", delta=trough["ds"].strftime("%b %Y"), delta_color="inverse")
     st.markdown('</div>', unsafe_allow_html=True)
 
+    preview = (
+        future_forecast[["ds", "yhat", "yhat_lower", "yhat_upper"]]
+        .rename(
+            columns={
+                "ds": "Date",
+                "yhat": "Prévision",
+                "yhat_lower": "Borne basse",
+                "yhat_upper": "Borne haute",
+            }
+        )
+        .tail(horizon)
+    )
+    st.dataframe(preview, use_container_width=True)
+
     st.download_button(
-        "Télécharger prévisions CSV",
+        "Téléchargez prévisions CSV",
         forecast.to_csv(index=False).encode('utf-8'),
         "previsions_mais_benin.csv",
         "text/csv"
