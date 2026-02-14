@@ -1,4 +1,4 @@
-﻿from pathlib import Path
+from pathlib import Path
 import pandas as pd
 import streamlit as st
 from prophet import Prophet
@@ -114,6 +114,26 @@ st.markdown("""
         text-align: center;
         box-shadow: 0 2px 10px rgba(0,0,0,0.4);
     }
+
+    .project-box {
+        background: #161b22;
+        border: 1px solid #30363d;
+        border-radius: 12px;
+        padding: 1.2rem 1.3rem;
+        margin-bottom: 1.2rem;
+        box-shadow: 0 2px 12px rgba(0,0,0,0.35);
+    }
+
+    .project-box h3 {
+        color: #58a6ff !important;
+        margin-bottom: 0.6rem;
+    }
+
+    .project-box p {
+        margin: 0.25rem 0 0.65rem 0;
+        color: #c9d1d9 !important;
+        line-height: 1.55;
+    }
     </style>
 """, unsafe_allow_html=True)
 
@@ -129,6 +149,19 @@ st.markdown("""
     </div>
 """, unsafe_allow_html=True)
 
+st.markdown(
+    """
+    <div class="project-box">
+        <h3>Description du projet</h3>
+        <p><b>Objectif :</b> Anticiper l'évolution mensuelle du prix du maïs au Bénin pour soutenir les décisions de production, d'achat et de planification.</p>
+        <p><b>Description :</b> Le dashboard exploite des données historiques FAO (prix producteurs) et applique Prophet pour modéliser la tendance, la saisonnalité et la projection future.</p>
+        <p><b>Résultats obtenus :</b> L'application fournit une courbe de prévision, des bornes d'incertitude, les mois de pic et de creux attendus, ainsi que des métriques de performance (MAE, MAPE).</p>
+        <p><b>Explication :</b> Les graphiques montrent la direction probable des prix; la décomposition aide à comprendre ce qui relève de la tendance de fond et des effets saisonniers.</p>
+    </div>
+    """,
+    unsafe_allow_html=True,
+)
+
 # ────────────────────────────────────────────────
 #   SIDEBAR
 # ────────────────────────────────────────────────
@@ -139,6 +172,25 @@ with st.sidebar:
     horizon = st.slider("Horizon de prévision (mois)", 6, 36, 24)
     show_components = st.checkbox("Afficher décomposition", value=True)
     show_metrics = st.checkbox("Afficher métriques", value=True)
+
+    st.markdown("### Guide rapide")
+    st.markdown(
+        """
+        1. Choisis l'horizon selon ton besoin (court, moyen, long terme).
+        2. Active la décomposition pour lire tendance et saisonnalité.
+        3. Active les métriques pour vérifier la qualité (MAE, MAPE).
+        4. Compare le pic et le creux pour mieux planifier les décisions.
+        """
+    )
+    with st.expander("Explorer les graphiques", expanded=True):
+        st.markdown(
+            """
+            - Survole les courbes pour afficher les valeurs mensuelles.
+            - Zoome sur une période pour examiner les variations locales.
+            - Lis les bornes basse/haute pour comprendre l'incertitude.
+            - Télécharge le CSV pour une analyse avancée dans Excel/Power BI.
+            """
+        )
 
     st.markdown("---")
     st.caption("Projet par **Fidele GOUSSIKINDE**")
