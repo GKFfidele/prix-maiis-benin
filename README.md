@@ -4,8 +4,9 @@
 **Prévisions mensuelles intelligentes des prix du maïs à la production**  
 Un projet Data Science qui combine time series forecasting, Prophet et déploiement web pour aider agriculteurs, commerçants et décideurs à anticiper la volatilité des prix.
 
-![Prix du maïs - Prévisions 2026](https://via.placeholder.com/800x400/2ecc71/ffffff?text=Pic+mai+2026+~282k+FCFA)  
-![alt text](newplot.png)
+## Dashboard interactif live
+[Accédez à la prévision des prix du maïs au Bénin](https://prix-maiis-benin-1.onrender.com)  
+(Prophet – MAPE 10.6 % – Prévisions mensuelles)![alt text](newplot.png)
 ## 🎯 Pourquoi ce projet ?
 
 Au Bénin, le maïs représente une part essentielle de l'alimentation et de l'économie agricole (~25-30 % des cultures vivrières).  
